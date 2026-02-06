@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/latest/download/DLSBOT.exe",
+    "changelog": "- Initial release\n- License system\n- All automation tasks",
+    "mandatory": false,
+    "md5": ""
+}
