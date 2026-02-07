@@ -1,7 +1,7 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.1",
     "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/latest/download/DLSBOT.exe",
-    "changelog": "- Initial release\n- License system\n- All automation tasks",
+    "changelog": "- 1. Primary Request and Intent:\n-    - Organize templates into task-based subfolders (gathering/, heal/, help/, bounty/, rewards/, common/, zombie/)\n-    - Remove loose images from root templates folder after organization\n-    - Make \"Restore Size\" in GUI restore windows to 1280x720 (original size) instead of grid size\n-    - Create Zombie Hunt task for levels 30-40 with stamina management (50\u2192100\u2192500)\n-    - Create Rally (Hivemind) task for levels 4-7 with 4-minute rally wait\n-    - Fix healing task detection issues - add retry logic, fallback templates, and Plan B detection",
     "mandatory": false,
-    "md5": ""
+    "md5": "7493b7f8c5664885b8409a28f4581a8c"
 }
