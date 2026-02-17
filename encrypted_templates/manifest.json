@@ -1,0 +1,740 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "bounty\\bg.tpl",
+      "hash": "f0fc4bbe6f149b1854d8ed9602eb69fa",
+      "original": "bounty\\bg.png"
+    },
+    {
+      "path": "bounty\\bg_campaign.tpl",
+      "hash": "4e88d9ada6e9bd80416cf7c1a8856c44",
+      "original": "bounty\\bg_campaign.png"
+    },
+    {
+      "path": "bounty\\bg_cancel.tpl",
+      "hash": "25799bcde2ef7845427518228fd8acb3",
+      "original": "bounty\\bg_cancel.png"
+    },
+    {
+      "path": "bounty\\bg_competitors.tpl",
+      "hash": "37d40021b39fefd70a8ca2ebb1507b31",
+      "original": "bounty\\bg_competitors.png"
+    },
+    {
+      "path": "bounty\\bg_match.tpl",
+      "hash": "e6191c166fcffee29979155a1807c2d8",
+      "original": "bounty\\bg_match.png"
+    },
+    {
+      "path": "bounty\\bg_prompt.tpl",
+      "hash": "d0e9df422c50a04d3ab8601e3d0ce401",
+      "original": "bounty\\bg_prompt.png"
+    },
+    {
+      "path": "bounty\\bg_return.tpl",
+      "hash": "4337b4a62262c00bf97c24a442d05836",
+      "original": "bounty\\bg_return.png"
+    },
+    {
+      "path": "bounty\\bg_track.tpl",
+      "hash": "a687990e455b77ee3dc680ebaffd7e2c",
+      "original": "bounty\\bg_track.png"
+    },
+    {
+      "path": "common\\back_arrow.tpl",
+      "hash": "46970d8216ffcabf106fc59124997718",
+      "original": "common\\back_arrow.png"
+    },
+    {
+      "path": "common\\buff_1280_720.tpl",
+      "hash": "f3a45694e7e828d763d8c0cb281d89cb",
+      "original": "common\\buff_1280_720.png"
+    },
+    {
+      "path": "common\\buff_resized.tpl",
+      "hash": "cc9aaa7e835c910377cc29bb4ef82a0f",
+      "original": "common\\buff_resized.png"
+    },
+    {
+      "path": "common\\close_x.tpl",
+      "hash": "1177aa89caf0417c688332a2463eebf1",
+      "original": "common\\close_x.png"
+    },
+    {
+      "path": "common\\exit_cancel.tpl",
+      "hash": "50143113b14dc3d3b8b13732057a3953",
+      "original": "common\\exit_cancel.png"
+    },
+    {
+      "path": "common\\exit_game.tpl",
+      "hash": "a8a8cf2085ac0dfbcd1cf41f63c63ebe",
+      "original": "common\\exit_game.png"
+    },
+    {
+      "path": "common\\exit_shelter.tpl",
+      "hash": "db8899e078cac8f2a18f79364d7c02c2",
+      "original": "common\\exit_shelter.png"
+    },
+    {
+      "path": "common\\popup_x.tpl",
+      "hash": "df8852e762196ba308e0c7c078605177",
+      "original": "common\\popup_x.png"
+    },
+    {
+      "path": "gathering\\buff_gathering.tpl",
+      "hash": "81f1b0c96a8abf561d6441f544726102",
+      "original": "gathering\\buff_gathering.png"
+    },
+    {
+      "path": "gathering\\buff_gathering_1d.tpl",
+      "hash": "761b98d4c07549e0b51866e06dd76c4e",
+      "original": "gathering\\buff_gathering_1d.png"
+    },
+    {
+      "path": "gathering\\buff_gathering_1d_use.tpl",
+      "hash": "ee6eb8c5ab1281b820ea321f8f3ca397",
+      "original": "gathering\\buff_gathering_1d_use.png"
+    },
+    {
+      "path": "gathering\\buff_gathering_8h.tpl",
+      "hash": "ee8eb358871f40c3945fd004b502a0f5",
+      "original": "gathering\\buff_gathering_8h.png"
+    },
+    {
+      "path": "gathering\\buff_gathering_8h_use.tpl",
+      "hash": "ee6eb8c5ab1281b820ea321f8f3ca397",
+      "original": "gathering\\buff_gathering_8h_use.png"
+    },
+    {
+      "path": "gathering\\buff_gathering_close.tpl",
+      "hash": "f4c9da59632a4c2555e09a450dbdebcd",
+      "original": "gathering\\buff_gathering_close.png"
+    },
+    {
+      "path": "gathering\\create_squad_btn.tpl",
+      "hash": "a9cdfae863bba5931b63d6b873d14e95",
+      "original": "gathering\\create_squad_btn.png"
+    },
+    {
+      "path": "gathering\\exit.tpl",
+      "hash": "9fcf486caad4006aaac497e376176367",
+      "original": "gathering\\exit.png"
+    },
+    {
+      "path": "gathering\\exit_shelter.tpl",
+      "hash": "db8899e078cac8f2a18f79364d7c02c2",
+      "original": "gathering\\exit_shelter.png"
+    },
+    {
+      "path": "gathering\\gathering_buff_back.tpl",
+      "hash": "4153b1883f66243ded66cf0d905df368",
+      "original": "gathering\\gathering_buff_back.png"
+    },
+    {
+      "path": "gathering\\gathering_buff_indicator.tpl",
+      "hash": "753c2cd6b8ce559e85de0845394238f1",
+      "original": "gathering\\gathering_buff_indicator.png"
+    },
+    {
+      "path": "gathering\\gathering_buff_replace.tpl",
+      "hash": "ecf51802a292ee42ecdfb8c02022f2ab",
+      "original": "gathering\\gathering_buff_replace.png"
+    },
+    {
+      "path": "gathering\\gathering_buff_replace_cancel.tpl",
+      "hash": "e4cb7aa1b1859bea789b83d9bf6a9ff1",
+      "original": "gathering\\gathering_buff_replace_cancel.png"
+    },
+    {
+      "path": "gathering\\gather_btn.tpl",
+      "hash": "70a6255eb6fa8ac0983a367f76a983c6",
+      "original": "gathering\\gather_btn.png"
+    },
+    {
+      "path": "gathering\\hand1.tpl",
+      "hash": "957feb7598dc5bbed15d11e830fc4c96",
+      "original": "gathering\\hand1.png"
+    },
+    {
+      "path": "gathering\\hand2.tpl",
+      "hash": "3fd357791d1e29d6daf63432f938fb97",
+      "original": "gathering\\hand2.png"
+    },
+    {
+      "path": "gathering\\hand3.tpl",
+      "hash": "00862080f5c465d117432e6c2e8f410a",
+      "original": "gathering\\hand3.png"
+    },
+    {
+      "path": "gathering\\hand4.tpl",
+      "hash": "e760bb4e90e8c74d76fbfc8d159a1a9d",
+      "original": "gathering\\hand4.png"
+    },
+    {
+      "path": "gathering\\icon_help.tpl",
+      "hash": "4344ba38281fb394ddbc5579cfc84cf3",
+      "original": "gathering\\icon_help.png"
+    },
+    {
+      "path": "gathering\\march.tpl",
+      "hash": "29a91d0e4947860777539400533e84ca",
+      "original": "gathering\\march.png"
+    },
+    {
+      "path": "gathering\\march_btn.tpl",
+      "hash": "6097eb64fec600cd981009c2e8686e41",
+      "original": "gathering\\march_btn.png"
+    },
+    {
+      "path": "gathering\\res_food.tpl",
+      "hash": "3d5a59b1b6f47e089591b60ee19c94c4",
+      "original": "gathering\\res_food.png"
+    },
+    {
+      "path": "gathering\\res_oil.tpl",
+      "hash": "b2ac4d2b3d703b0b400aa0ee5838f1cf",
+      "original": "gathering\\res_oil.png"
+    },
+    {
+      "path": "gathering\\res_steel.tpl",
+      "hash": "a4388e9a0f67345b2b154740e0a802ee",
+      "original": "gathering\\res_steel.png"
+    },
+    {
+      "path": "gathering\\res_wood.tpl",
+      "hash": "ae8727ed3f02926bcc0ac6c67ca96d7e",
+      "original": "gathering\\res_wood.png"
+    },
+    {
+      "path": "gathering\\search_btn.tpl",
+      "hash": "258a6fe3891f110712ece39d4ee3cb0c",
+      "original": "gathering\\search_btn.png"
+    },
+    {
+      "path": "gathering\\search_loupe.tpl",
+      "hash": "0790fb6808d6324719c10f853f95e533",
+      "original": "gathering\\search_loupe.png"
+    },
+    {
+      "path": "heal\\amount_233.tpl",
+      "hash": "0d9a2b750b5984fe6881f328cc8b171c",
+      "original": "heal\\amount_233.png"
+    },
+    {
+      "path": "heal\\amount_2330.tpl",
+      "hash": "58455952b9a27411cae4e8f78444c913",
+      "original": "heal\\amount_2330.png"
+    },
+    {
+      "path": "heal\\close_x.tpl",
+      "hash": "1177aa89caf0417c688332a2463eebf1",
+      "original": "heal\\close_x.png"
+    },
+    {
+      "path": "heal\\go_shelter.tpl",
+      "hash": "16aa2b9598db56d18c38c4a2f9ed6d2f",
+      "original": "heal\\go_shelter.png"
+    },
+    {
+      "path": "heal\\heal_amount_zero_btn.tpl",
+      "hash": "ab1f7a69af5c22773beaa0900fdedfd1",
+      "original": "heal\\heal_amount_zero_btn.png"
+    },
+    {
+      "path": "heal\\heal_btn.tpl",
+      "hash": "fc943ef7ba815fc5154aea5de80458de",
+      "original": "heal\\heal_btn.png"
+    },
+    {
+      "path": "heal\\heal_input_field.tpl",
+      "hash": "f813e6b88248bf6ed64561df4e141b1e",
+      "original": "heal\\heal_input_field.png"
+    },
+    {
+      "path": "heal\\t6rider.tpl",
+      "hash": "fbd7502ad5508316d81cc06ac34136b9",
+      "original": "heal\\t6rider.png"
+    },
+    {
+      "path": "heal\\wait_claim.tpl",
+      "hash": "2340e1654c9fc1fca5219990430eb228",
+      "original": "heal\\wait_claim.png"
+    },
+    {
+      "path": "heal\\wait_claim2.tpl",
+      "hash": "012a7dc54f61e6e4e19165dd18a295db",
+      "original": "heal\\wait_claim2.png"
+    },
+    {
+      "path": "heal\\wait_claim3.tpl",
+      "hash": "bd4eea65b26e9f942f8567f5ce954bee",
+      "original": "heal\\wait_claim3.png"
+    },
+    {
+      "path": "heal\\wait_claim4.tpl",
+      "hash": "1439da93105c4f95a53efed2b0af5539",
+      "original": "heal\\wait_claim4.png"
+    },
+    {
+      "path": "heal\\wait_claim5.tpl",
+      "hash": "a3bce9be4dbf72cb430886a5fdff020d",
+      "original": "heal\\wait_claim5.png"
+    },
+    {
+      "path": "heal\\wait_claim6.tpl",
+      "hash": "5ef753ffcefb092ef6dad1682e4ef874",
+      "original": "heal\\wait_claim6.png"
+    },
+    {
+      "path": "heal\\wounded_icon.tpl",
+      "hash": "b1e5f989d5c431b4b18c50ac5b719bcf",
+      "original": "heal\\wounded_icon.png"
+    },
+    {
+      "path": "help\\help.tpl",
+      "hash": "d4e56a277cf14bb19b9087147fa9ac20",
+      "original": "help\\help.png"
+    },
+    {
+      "path": "help\\icon_help.tpl",
+      "hash": "4344ba38281fb394ddbc5579cfc84cf3",
+      "original": "help\\icon_help.png"
+    },
+    {
+      "path": "icons\\bountyground.tpl",
+      "hash": "2dd537c6eddbb4ca823e9c7f08609d71",
+      "original": "icons\\bountyground.png"
+    },
+    {
+      "path": "icons\\gathering.tpl",
+      "hash": "47423d0bb3c9b6c09bbedd298aceca02",
+      "original": "icons\\gathering.png"
+    },
+    {
+      "path": "icons\\heal.tpl",
+      "hash": "a4920368a3bc93e79a10e8a645777432",
+      "original": "icons\\heal.png"
+    },
+    {
+      "path": "icons\\help.tpl",
+      "hash": "6849e2febf5f708c141726fd3c0052a7",
+      "original": "icons\\help.png"
+    },
+    {
+      "path": "icons\\icon.tpl",
+      "hash": "e35791406464825b2c92ef101e6c5df3",
+      "original": "icons\\icon.png"
+    },
+    {
+      "path": "icons\\rally.tpl",
+      "hash": "5ec3c17471576a57625a797523c487a2",
+      "original": "icons\\rally.png"
+    },
+    {
+      "path": "icons\\rewards.tpl",
+      "hash": "654c80f6b1278cc09f4c9d171f94de4f",
+      "original": "icons\\rewards.png"
+    },
+    {
+      "path": "icons\\waterwar.tpl",
+      "hash": "887a970796c3acd92dc529ec0a52c20f",
+      "original": "icons\\waterwar.png"
+    },
+    {
+      "path": "icons\\zombie.tpl",
+      "hash": "a503c21d45816a7f0896178206a2780e",
+      "original": "icons\\zombie.png"
+    },
+    {
+      "path": "rally\\hand1.tpl",
+      "hash": "957feb7598dc5bbed15d11e830fc4c96",
+      "original": "rally\\hand1.png"
+    },
+    {
+      "path": "rally\\hand2.tpl",
+      "hash": "3fd357791d1e29d6daf63432f938fb97",
+      "original": "rally\\hand2.png"
+    },
+    {
+      "path": "rally\\hand3.tpl",
+      "hash": "00862080f5c465d117432e6c2e8f410a",
+      "original": "rally\\hand3.png"
+    },
+    {
+      "path": "rally\\hand4.tpl",
+      "hash": "e760bb4e90e8c74d76fbfc8d159a1a9d",
+      "original": "rally\\hand4.png"
+    },
+    {
+      "path": "rewards\\activity_claim_all.tpl",
+      "hash": "8d3b7f9780ad226db37a4ab7be632324",
+      "original": "rewards\\activity_claim_all.png"
+    },
+    {
+      "path": "rewards\\activity_tab.tpl",
+      "hash": "24a8128886280393e96968b45d072947",
+      "original": "rewards\\activity_tab.png"
+    },
+    {
+      "path": "rewards\\alliance_btn.tpl",
+      "hash": "969a385061d62f2adca1b6a554a79fb4",
+      "original": "rewards\\alliance_btn.png"
+    },
+    {
+      "path": "rewards\\chest_icon.tpl",
+      "hash": "bba6ea109a7c0a3ef34f4b49f13b7ab6",
+      "original": "rewards\\chest_icon.png"
+    },
+    {
+      "path": "rewards\\donate_yellow.tpl",
+      "hash": "80669d65134aee487d32ab8ccde22960",
+      "original": "rewards\\donate_yellow.png"
+    },
+    {
+      "path": "rewards\\gift_btn.tpl",
+      "hash": "33537ff3f6fd75fe6fe95850973f7eb4",
+      "original": "rewards\\gift_btn.png"
+    },
+    {
+      "path": "rewards\\glow.tpl",
+      "hash": "13cc42844d81ddb69689f0e79201600d",
+      "original": "rewards\\glow.png"
+    },
+    {
+      "path": "rewards\\glow_1.tpl",
+      "hash": "abaa5138834a71cc673db9f5d2795a8a",
+      "original": "rewards\\glow_1.png"
+    },
+    {
+      "path": "rewards\\glow_2.tpl",
+      "hash": "f55ccf18c9501d87e90e3ac8bf4dd0d0",
+      "original": "rewards\\glow_2.png"
+    },
+    {
+      "path": "rewards\\glow_3.tpl",
+      "hash": "4f55ae839272beaa0a7c268291b82429",
+      "original": "rewards\\glow_3.png"
+    },
+    {
+      "path": "rewards\\hand1.tpl",
+      "hash": "957feb7598dc5bbed15d11e830fc4c96",
+      "original": "rewards\\hand1.png"
+    },
+    {
+      "path": "rewards\\hand2.tpl",
+      "hash": "3fd357791d1e29d6daf63432f938fb97",
+      "original": "rewards\\hand2.png"
+    },
+    {
+      "path": "rewards\\hand3.tpl",
+      "hash": "00862080f5c465d117432e6c2e8f410a",
+      "original": "rewards\\hand3.png"
+    },
+    {
+      "path": "rewards\\hand4.tpl",
+      "hash": "e760bb4e90e8c74d76fbfc8d159a1a9d",
+      "original": "rewards\\hand4.png"
+    },
+    {
+      "path": "rewards\\mail_btn.tpl",
+      "hash": "c76795495f45442e46cf4831767755c8",
+      "original": "rewards\\mail_btn.png"
+    },
+    {
+      "path": "rewards\\mail_claim_all.tpl",
+      "hash": "4af944c0613812bdf8378fae2eb3ab5e",
+      "original": "rewards\\mail_claim_all.png"
+    },
+    {
+      "path": "rewards\\mail_close_x.tpl",
+      "hash": "ac3df47a15e9c7ff097aed37718b23dd",
+      "original": "rewards\\mail_close_x.png"
+    },
+    {
+      "path": "rewards\\mail_tab_alliance.tpl",
+      "hash": "81a9e697290621203663c13070a812f8",
+      "original": "rewards\\mail_tab_alliance.png"
+    },
+    {
+      "path": "rewards\\mail_tab_system.tpl",
+      "hash": "33da8332c0b6fb5838d57b0161834c32",
+      "original": "rewards\\mail_tab_system.png"
+    },
+    {
+      "path": "rewards\\marked_label.tpl",
+      "hash": "1744e89d00c19c4589789257b6870e17",
+      "original": "rewards\\marked_label.png"
+    },
+    {
+      "path": "rewards\\marked_label2.tpl",
+      "hash": "316b8f2c5af204fd63675e9964c90a85",
+      "original": "rewards\\marked_label2.png"
+    },
+    {
+      "path": "rewards\\marked_label3.tpl",
+      "hash": "b6cd6714000d807e66d4ac34516f6d34",
+      "original": "rewards\\marked_label3.png"
+    },
+    {
+      "path": "rewards\\marked_label4.tpl",
+      "hash": "1aced7da038c42e22d2fa8aae979cdb5",
+      "original": "rewards\\marked_label4.png"
+    },
+    {
+      "path": "rewards\\shop_claim_green.tpl",
+      "hash": "ca6352353d87a20402736ce046b45733",
+      "original": "rewards\\shop_claim_green.png"
+    },
+    {
+      "path": "rewards\\shop_tab.tpl",
+      "hash": "a96837a30987488d4eeb2cd839dc0ae9",
+      "original": "rewards\\shop_tab.png"
+    },
+    {
+      "path": "rewards\\technology_btn.tpl",
+      "hash": "ec45bf9d894717cf9f352c7f3c0e76ba",
+      "original": "rewards\\technology_btn.png"
+    },
+    {
+      "path": "rewards\\territory_btn.tpl",
+      "hash": "8f6a67fd4517c325eb623df2d2a610c2",
+      "original": "rewards\\territory_btn.png"
+    },
+    {
+      "path": "rewards\\territory_claim_green.tpl",
+      "hash": "483e13dd98a835266672b201bba4490b",
+      "original": "rewards\\territory_claim_green.png"
+    },
+    {
+      "path": "rewards\\wait_claim.tpl",
+      "hash": "2340e1654c9fc1fca5219990430eb228",
+      "original": "rewards\\wait_claim.png"
+    },
+    {
+      "path": "zombie\\attack_zombie.tpl",
+      "hash": "24c6e7d372776347183e5987ebd7485a",
+      "original": "zombie\\attack_zombie.png"
+    },
+    {
+      "path": "zombie\\continue_hunt_peggy.tpl",
+      "hash": "7a3b30b7c5f9eaaa88ac95bf3de1a0eb",
+      "original": "zombie\\continue_hunt_peggy.png"
+    },
+    {
+      "path": "zombie\\create_squad.tpl",
+      "hash": "8653727f796324bffe575c74d9e1394d",
+      "original": "zombie\\create_squad.png"
+    },
+    {
+      "path": "zombie\\decrease_level.tpl",
+      "hash": "8f712e3e03f854b5a83112ca8bef219c",
+      "original": "zombie\\decrease_level.png"
+    },
+    {
+      "path": "zombie\\go_worldmap.tpl",
+      "hash": "d52f80a2875534384e14b071305e8894",
+      "original": "zombie\\go_worldmap.png"
+    },
+    {
+      "path": "zombie\\hand1.tpl",
+      "hash": "957feb7598dc5bbed15d11e830fc4c96",
+      "original": "zombie\\hand1.png"
+    },
+    {
+      "path": "zombie\\hand2.tpl",
+      "hash": "3fd357791d1e29d6daf63432f938fb97",
+      "original": "zombie\\hand2.png"
+    },
+    {
+      "path": "zombie\\hand3.tpl",
+      "hash": "00862080f5c465d117432e6c2e8f410a",
+      "original": "zombie\\hand3.png"
+    },
+    {
+      "path": "zombie\\hand4.tpl",
+      "hash": "e760bb4e90e8c74d76fbfc8d159a1a9d",
+      "original": "zombie\\hand4.png"
+    },
+    {
+      "path": "zombie\\hivemind.tpl",
+      "hash": "42383c3450c139e49fb124850dbd7ea0",
+      "original": "zombie\\hivemind.png"
+    },
+    {
+      "path": "zombie\\hivemind4.tpl",
+      "hash": "5edac87f1de70952dbce103b4528248c",
+      "original": "zombie\\hivemind4.png"
+    },
+    {
+      "path": "zombie\\hivemind5.tpl",
+      "hash": "075cc873e0ec94f09eb23857b7386d86",
+      "original": "zombie\\hivemind5.png"
+    },
+    {
+      "path": "zombie\\hivemind6.tpl",
+      "hash": "2300b933c0eff5685635a7b012b5815c",
+      "original": "zombie\\hivemind6.png"
+    },
+    {
+      "path": "zombie\\hivemind7.tpl",
+      "hash": "8dbdcfb852d1cb014ab3515ee19ddb4e",
+      "original": "zombie\\hivemind7.png"
+    },
+    {
+      "path": "zombie\\hive_locate.tpl",
+      "hash": "6623a849aa90f59b559c7d2474eea7e7",
+      "original": "zombie\\hive_locate.png"
+    },
+    {
+      "path": "zombie\\increase_level.tpl",
+      "hash": "dc5019e9dad300d51a0d51276035f841",
+      "original": "zombie\\increase_level.png"
+    },
+    {
+      "path": "zombie\\insufficient100.tpl",
+      "hash": "84000b70413eb705327ae20331500d4c",
+      "original": "zombie\\insufficient100.png"
+    },
+    {
+      "path": "zombie\\insufficient50.tpl",
+      "hash": "529f663b4c463720b6bf04b2613b0ee2",
+      "original": "zombie\\insufficient50.png"
+    },
+    {
+      "path": "zombie\\insufficient500.tpl",
+      "hash": "3dd700711f04fee7cd8ab7bb8a9612ef",
+      "original": "zombie\\insufficient500.png"
+    },
+    {
+      "path": "zombie\\kill_zombie.tpl",
+      "hash": "640132aceceab4bd9bbc3663b1edf9a7",
+      "original": "zombie\\kill_zombie.png"
+    },
+    {
+      "path": "zombie\\march.tpl",
+      "hash": "43bf3e5280911fe8fa27975ad05298a1",
+      "original": "zombie\\march.png"
+    },
+    {
+      "path": "zombie\\rally_hive.tpl",
+      "hash": "4da3b47784420794f90b64a9d0b9c147",
+      "original": "zombie\\rally_hive.png"
+    },
+    {
+      "path": "zombie\\rally_hivemind.tpl",
+      "hash": "5be6b1eaf775bf40d45f252806adbf8a",
+      "original": "zombie\\rally_hivemind.png"
+    },
+    {
+      "path": "zombie\\search_menu.tpl",
+      "hash": "38f61b836bd38ee07707df25528b98ad",
+      "original": "zombie\\search_menu.png"
+    },
+    {
+      "path": "zombie\\search_zombie_hive.tpl",
+      "hash": "66fa3ac14e08f6aff01a28467a2a2d4b",
+      "original": "zombie\\search_zombie_hive.png"
+    },
+    {
+      "path": "zombie\\shelter_check.tpl",
+      "hash": "32453c699a11cde68f216a3134792f6d",
+      "original": "zombie\\shelter_check.png"
+    },
+    {
+      "path": "zombie\\stamina100.tpl",
+      "hash": "1aa0530b9633bf6b22ed63e60fd96265",
+      "original": "zombie\\stamina100.png"
+    },
+    {
+      "path": "zombie\\stamina100_use.tpl",
+      "hash": "e247b595a2b4ad325717d313e8c0de4e",
+      "original": "zombie\\stamina100_use.png"
+    },
+    {
+      "path": "zombie\\stamina50.tpl",
+      "hash": "69a2a6b141973200302ac533732e1c9a",
+      "original": "zombie\\stamina50.png"
+    },
+    {
+      "path": "zombie\\stamina500.tpl",
+      "hash": "eb65b29bd77b7580eb13897f52f7e127",
+      "original": "zombie\\stamina500.png"
+    },
+    {
+      "path": "zombie\\stamina500_use.tpl",
+      "hash": "e247b595a2b4ad325717d313e8c0de4e",
+      "original": "zombie\\stamina500_use.png"
+    },
+    {
+      "path": "zombie\\stamina50_use.tpl",
+      "hash": "e247b595a2b4ad325717d313e8c0de4e",
+      "original": "zombie\\stamina50_use.png"
+    },
+    {
+      "path": "zombie\\zombie.tpl",
+      "hash": "945a88eb191e41a382b3097597899a80",
+      "original": "zombie\\zombie.png"
+    },
+    {
+      "path": "zombie\\zombie30.tpl",
+      "hash": "616eb85ac0236c44bee37fd7a998af8c",
+      "original": "zombie\\zombie30.png"
+    },
+    {
+      "path": "zombie\\zombie31.tpl",
+      "hash": "7acd410cefde0588bbf57763d1f22d76",
+      "original": "zombie\\zombie31.png"
+    },
+    {
+      "path": "zombie\\zombie32.tpl",
+      "hash": "839acc42949aa4f8c2b9331994e65594",
+      "original": "zombie\\zombie32.png"
+    },
+    {
+      "path": "zombie\\zombie33.tpl",
+      "hash": "7a408bc1bd5958186250ed562c406e2b",
+      "original": "zombie\\zombie33.png"
+    },
+    {
+      "path": "zombie\\zombie34.tpl",
+      "hash": "d3b8747615315f9c2914028590453248",
+      "original": "zombie\\zombie34.png"
+    },
+    {
+      "path": "zombie\\zombie35.tpl",
+      "hash": "3cd2ed427f66d3b28006f50f6f44d012",
+      "original": "zombie\\zombie35.png"
+    },
+    {
+      "path": "zombie\\zombie36.tpl",
+      "hash": "755f5fa9b93901bae57a6a5a00be01db",
+      "original": "zombie\\zombie36.png"
+    },
+    {
+      "path": "zombie\\zombie37.tpl",
+      "hash": "67fecafa10037d807775c599d96c6881",
+      "original": "zombie\\zombie37.png"
+    },
+    {
+      "path": "zombie\\zombie38.tpl",
+      "hash": "39bc5bc9f6b1c021888f49b13a24dcc7",
+      "original": "zombie\\zombie38.png"
+    },
+    {
+      "path": "zombie\\zombie39.tpl",
+      "hash": "57c8fac81e80542c4ae27491bcdda0a2",
+      "original": "zombie\\zombie39.png"
+    },
+    {
+      "path": "zombie\\zombie40.tpl",
+      "hash": "bbc176a079909f329a5c2d13096ba688",
+      "original": "zombie\\zombie40.png"
+    },
+    {
+      "path": "zombie\\zombie_locate.tpl",
+      "hash": "74bdcec44e27c65be7b08c8b7bc25fa4",
+      "original": "zombie\\zombie_locate.png"
+    }
+  ]
+}
