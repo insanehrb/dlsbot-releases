@@ -1,6 +1,6 @@
 {
-  "version": "1.1.5",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.1.5/DLSBot.exe",
+  "version": "1.1.6",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.1.6/DLSBot.exe",
   "changelog": "- fixed bugs",
   "mandatory": false
 }
