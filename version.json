@@ -1,6 +1,6 @@
 {
-  "version": "1.2.7",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.7/DLSBot.exe",
-  "changelog": "- Added Task Scheduler tab (run tasks for set durations in sequence)\n- Zombie and Rally are now mutually exclusive\n- Renamed Help task label\n- Fixed Settings tab layout",
+  "version": "1.2.8",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.8/DLSBot.exe",
+  "changelog": "- Fixed auto-resize for gathering/rewards tasks (window size now matches manual grid resize)",
   "mandatory": false
 }
