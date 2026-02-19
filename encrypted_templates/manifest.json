@@ -760,6 +760,11 @@
       "path": "zombie\\zombie_locate.tpl",
       "hash": "74bdcec44e27c65be7b08c8b7bc25fa4",
       "original": "zombie\\zombie_locate.png"
+    },
+    {
+      "path": "help\\help_original.tpl",
+      "hash": "d775eb05ddf900a83dd5f4f732b50dfc",
+      "original": "help\\help_original.png"
     }
   ]
 }
