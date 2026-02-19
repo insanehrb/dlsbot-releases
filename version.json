@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.1.6/DLSBot.exe",
-  "changelog": "- fixed bugs",
+  "version": "1.1.7",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.1.7/DLSBot.exe",
+  "changelog": "- Fixed gathering error\n- Fixed zombie/rally task errors\n- Added auto-resize for tasks\n- Improved rewards matching",
   "mandatory": false
 }
