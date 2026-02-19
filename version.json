@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.1.9/DLSBot.exe",
-  "changelog": "- Fixed zombie use_stamina param\n- Fixed auto-resize client area\n- Fixed rally/zombie level params",
+  "version": "1.2.0",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.0/DLSBot.exe",
+  "changelog": "- Fixed zombie config keys (random level, level settings)\n- Fixed stamina detection threshold\n- Fixed auto-resize client area\n- Fixed rally/zombie level params",
   "mandatory": false
 }
