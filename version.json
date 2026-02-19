@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.3/DLSBot.exe",
-  "changelog": "- Fixed zombie hunt not proceeding after continue_hunt on first run\n- Settings tab 2-column layout\n- Activity Log in own tab",
+  "version": "1.2.4",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.4/DLSBot.exe",
+  "changelog": "- Fixed zombie march not clicked after continue_hunt on first run",
   "mandatory": false
 }
