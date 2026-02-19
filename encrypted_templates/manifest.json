@@ -252,6 +252,31 @@
       "original": "heal\\heal_input_field.png"
     },
     {
+      "path": "heal\\t5infantry.tpl",
+      "hash": "0c15b77cf3795eea83176cf70fb6e685",
+      "original": "heal\\t5infantry.png"
+    },
+    {
+      "path": "heal\\t5ranged.tpl",
+      "hash": "13b18fff4a41b5838785fad07b7c9d0f",
+      "original": "heal\\t5ranged.png"
+    },
+    {
+      "path": "heal\\t5rider.tpl",
+      "hash": "43e8bcd9f9d93bba3171f36ae2618c1d",
+      "original": "heal\\t5rider.png"
+    },
+    {
+      "path": "heal\\t6infantry.tpl",
+      "hash": "be1f4cd3e2ea4ea43fcffff80e8af326",
+      "original": "heal\\t6infantry.png"
+    },
+    {
+      "path": "heal\\t6ranged.tpl",
+      "hash": "3dcaf9bce3df2bb53fef60d88be0213e",
+      "original": "heal\\t6ranged.png"
+    },
+    {
       "path": "heal\\t6rider.tpl",
       "hash": "fbd7502ad5508316d81cc06ac34136b9",
       "original": "heal\\t6rider.png"
