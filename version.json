@@ -1,6 +1,6 @@
 {
-  "version": "1.2.5",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.5/DLSBot.exe",
-  "changelog": "- Fixed crash on march2 template check",
+  "version": "1.2.6",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.6/DLSBot.exe",
+  "changelog": "- Fixed rally always using random mode\n- Fixed zombie stuck when level is below 30\n- Removed zombie level hard-clamp to 30-40",
   "mandatory": false
 }
