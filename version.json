@@ -1,6 +1,6 @@
 {
-  "version": "1.2.9",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.9/DLSBot.exe",
-  "changelog": "- Fixed crash on startup after auto-update\n- Improved auto-update reliability",
+  "version": "1.3.0",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.0/DLSBot.exe",
+  "changelog": "- Improved healing: finds input box by row (not just any box on screen)\n- Added t5/t6 infantry, ranged, rider templates for healing\n- Removed cars from healing options",
   "mandatory": false
 }
