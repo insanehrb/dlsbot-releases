@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.0/DLSBot.exe",
-  "changelog": "- Fixed zombie config keys (random level, level settings)\n- Fixed stamina detection threshold\n- Fixed auto-resize client area\n- Fixed rally/zombie level params",
+  "version": "1.2.1",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.1/DLSBot.exe",
+  "changelog": "- Added march2 fallback template for zombie hunt\n- Fixed march button not found issue",
   "mandatory": false
 }
