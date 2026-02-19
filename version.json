@@ -1,6 +1,6 @@
 {
-  "version": "1.2.8",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.8/DLSBot.exe",
-  "changelog": "- Fixed auto-resize for gathering/rewards tasks (window size now matches manual grid resize)",
+  "version": "1.2.9",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.9/DLSBot.exe",
+  "changelog": "- Fixed crash on startup after auto-update\n- Improved auto-update reliability",
   "mandatory": false
 }
