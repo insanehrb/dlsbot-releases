@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.2/DLSBot.exe",
-  "changelog": "- Fixed zombie squad already deployed on first run\n- Activity Log moved to its own tab\n- Settings tab now uses full width",
+  "version": "1.2.3",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.2.3/DLSBot.exe",
+  "changelog": "- Fixed zombie hunt not proceeding after continue_hunt on first run\n- Settings tab 2-column layout\n- Activity Log in own tab",
   "mandatory": false
 }
