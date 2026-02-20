@@ -1,6 +1,6 @@
 {
-  "version": "1.3.15",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.15/DLSBot.exe",
-  "changelog": "- Claim: increased initial wait from 0.4s to 1.0s before polling for claim button",
+  "version": "1.3.16",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.16/DLSBot.exe",
+  "changelog": "- Heal: fix transition between troop types (e.g. riders -> infantry) not continuing\n- Heal: retry troop scan up to 3x if panel hasn't rendered yet\n- Heal: close panel with ESC if no troops found, so next cycle can detect wounded icon\n- Heal: fall back to lower threshold when clicking wounded icon after troop type transition",
   "mandatory": false
 }
