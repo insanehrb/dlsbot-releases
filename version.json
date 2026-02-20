@@ -1,6 +1,6 @@
 {
-  "version": "1.3.7",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.7/DLSBot.exe",
-  "changelog": "- Priority fix: input field now searched to the RIGHT of the detected troop portrait\n- Priority fix: troop detection threshold lowered (0.80 to 0.70) for better matching\n- Claim: color detection added (red=T6, yellow-orange=T5) for any skin\n- Claim: 4 fallback methods: template, color, timer expired, wounded gone",
+  "version": "1.3.8",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.8/DLSBot.exe",
+  "changelog": "- Claim fix: templates now searched near wounded icon position only (not full screen)\n- Claim fix: color detection radius increased for better coverage\n- Both claim_t6 and claim_t5 restricted to wounded icon area",
   "mandatory": false
 }
