@@ -1,6 +1,6 @@
 {
-  "version": "1.3.11",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.11/DLSBot.exe",
-  "changelog": "- Fix: exe no longer loops on update (version string was stuck at 1.3.7)\n- Fix: updater now unblocks downloaded exe before launching (prevents Defender DLL block)\n- Claim fix: templates searched near wounded icon position only",
+  "version": "1.3.12",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.12/DLSBot.exe",
+  "changelog": "- Fix: restored full 228MB bundle (was incorrectly stripped to 60MB causing launch crash)\n- Fix: version string loop on auto-update resolved\n- Fix: updater unblocks downloaded exe before launching",
   "mandatory": false
 }
