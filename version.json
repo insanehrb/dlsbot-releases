@@ -1,6 +1,6 @@
 {
-  "version": "1.3.3",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.3/DLSBot.exe",
-  "changelog": "- Claim button now polls continuously - clicks as soon as it appears\n- Priority: T4 removed from menu, old T4 configs auto-filtered\n- Priority dropdowns gray out already-selected options (no duplicates)\n- Help now triggers during gathering idle wait (between cycles)\n- Added detailed troop detection logging for priority debugging",
+  "version": "1.3.4",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.4/DLSBot.exe",
+  "changelog": "- Gathering buff fix: no longer retries every cycle when buff is already active\n- Gathering buff fix: mode-key mismatch resolved (buff timer saved correctly per mode)\n- Help during idle: scans without stealing window focus, only logs when clicked\n- Help during idle: checks every 5 seconds instead of every second",
   "mandatory": false
 }
