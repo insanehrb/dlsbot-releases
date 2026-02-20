@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.1/DLSBot.exe",
-  "changelog": "- Help task now supports original-size (1280x720) windows\n- Log messages now translated when GUI language is changed\n- Added note: game must use English language for bot to work\n- Task cycle log messages translated (gathering, rally, healing, etc.)",
+  "version": "1.3.2",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.2/DLSBot.exe",
+  "changelog": "- Healing priority redesigned: 6 slots with combined type + tier (e.g. Riders T6, Infantry T5)\n- Cars removed from healing settings\n- Claim healed troops using tier-specific templates (claim_t5, claim_t6)\n- Zero button now clicked before entering heal amount\n- Fixed: heal input field detection improved\n- Game language warning note now displays correctly",
   "mandatory": false
 }
