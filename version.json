@@ -1,6 +1,6 @@
 {
-  "version": "1.3.13",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.13/DLSBot.exe",
-  "changelog": "- Claim: simplified detection - if no healing-in-progress icon visible, clicks wounded icon position directly\n- Claim: template and color detection still attempted first",
+  "version": "1.3.14",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.14/DLSBot.exe",
+  "changelog": "- Claim: fallback click at wounded position if claim detection times out\n- Claim: no longer skips the click when wait_claim stays visible too long",
   "mandatory": false
 }
