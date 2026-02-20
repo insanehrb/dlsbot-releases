@@ -1,6 +1,6 @@
 {
-  "version": "1.3.4",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.4/DLSBot.exe",
-  "changelog": "- Gathering buff fix: no longer retries every cycle when buff is already active\n- Gathering buff fix: mode-key mismatch resolved (buff timer saved correctly per mode)\n- Help during idle: scans without stealing window focus, only logs when clicked\n- Help during idle: checks every 5 seconds instead of every second",
-  "mandatory": false
+  "version": "1.3.5",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.5/DLSBot.exe",
+  "changelog": "- CRITICAL FIX: Gathering automation stopped after first cycle (crash in idle wait loop)\n- Help during idle is handled by the standalone Help task (always was) - removed broken duplicate check\n- Automation crashes now show error in log instead of dying silently",
+  "mandatory": true
 }
