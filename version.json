@@ -1,6 +1,6 @@
 {
-  "version": "1.3.6",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.6/DLSBot.exe",
-  "changelog": "- Claim button: added color detection (red=T6, yellow-orange=T5) - works with any skin\n- Claim button: when healing timer expires, click wounded position directly\n- Claim now uses 4 fallback methods in order: template, color, timer gone, wounded gone",
+  "version": "1.3.7",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.7/DLSBot.exe",
+  "changelog": "- Priority fix: input field now searched to the RIGHT of the detected troop portrait\n- Priority fix: troop detection threshold lowered (0.80 to 0.70) for better matching\n- Claim: color detection added (red=T6, yellow-orange=T5) for any skin\n- Claim: 4 fallback methods: template, color, timer expired, wounded gone",
   "mandatory": false
 }
