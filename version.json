@@ -1,6 +1,6 @@
 {
-  "version": "1.3.9",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.9/DLSBot.exe",
-  "changelog": "- Fix: exe crash on launch (python314.dll UPX compression issue)\n- Claim fix: templates now searched near wounded icon position only\n- Claim fix: color detection radius increased for better coverage",
+  "version": "1.3.10",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.10/DLSBot.exe",
+  "changelog": "- Fix: exe launch crash (removed unused heavy packages from bundle, 67MB vs 228MB)\n- Claim fix: templates searched near wounded icon position only\n- Claim fix: color detection radius increased for better coverage",
   "mandatory": false
 }
