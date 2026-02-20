@@ -1,6 +1,6 @@
 {
-  "version": "1.3.8",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.8/DLSBot.exe",
-  "changelog": "- Claim fix: templates now searched near wounded icon position only (not full screen)\n- Claim fix: color detection radius increased for better coverage\n- Both claim_t6 and claim_t5 restricted to wounded icon area",
+  "version": "1.3.9",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.9/DLSBot.exe",
+  "changelog": "- Fix: exe crash on launch (python314.dll UPX compression issue)\n- Claim fix: templates now searched near wounded icon position only\n- Claim fix: color detection radius increased for better coverage",
   "mandatory": false
 }
