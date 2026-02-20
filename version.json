@@ -1,6 +1,6 @@
 {
-  "version": "1.3.5",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.5/DLSBot.exe",
-  "changelog": "- CRITICAL FIX: Gathering automation stopped after first cycle (crash in idle wait loop)\n- Help during idle is handled by the standalone Help task (always was) - removed broken duplicate check\n- Automation crashes now show error in log instead of dying silently",
-  "mandatory": true
+  "version": "1.3.6",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.6/DLSBot.exe",
+  "changelog": "- Claim button: added color detection (red=T6, yellow-orange=T5) - works with any skin\n- Claim button: when healing timer expires, click wounded position directly\n- Claim now uses 4 fallback methods in order: template, color, timer gone, wounded gone",
+  "mandatory": false
 }
