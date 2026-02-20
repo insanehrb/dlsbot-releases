@@ -765,6 +765,36 @@
       "path": "help\\help_original.tpl",
       "hash": "d775eb05ddf900a83dd5f4f732b50dfc",
       "original": "help\\help_original.png"
+    },
+    {
+      "path": "heal\\input_field_t6rider.tpl",
+      "hash": "02a12471a70ab6393c0c771dbe6eddc2",
+      "original": "heal\\input_field_t6rider.png"
+    },
+    {
+      "path": "heal\\input_field_t5rider.tpl",
+      "hash": "02a12471a70ab6393c0c771dbe6eddc2",
+      "original": "heal\\input_field_t5rider.png"
+    },
+    {
+      "path": "heal\\input_field_t6infantry.tpl",
+      "hash": "02a12471a70ab6393c0c771dbe6eddc2",
+      "original": "heal\\input_field_t6infantry.png"
+    },
+    {
+      "path": "heal\\input_field_t5infantry.tpl",
+      "hash": "02a12471a70ab6393c0c771dbe6eddc2",
+      "original": "heal\\input_field_t5infantry.png"
+    },
+    {
+      "path": "heal\\input_field_t6ranged.tpl",
+      "hash": "02a12471a70ab6393c0c771dbe6eddc2",
+      "original": "heal\\input_field_t6ranged.png"
+    },
+    {
+      "path": "heal\\input_field_t5ranged.tpl",
+      "hash": "02a12471a70ab6393c0c771dbe6eddc2",
+      "original": "heal\\input_field_t5ranged.png"
     }
   ]
 }
