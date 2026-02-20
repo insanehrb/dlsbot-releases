@@ -1,6 +1,6 @@
 {
-  "version": "1.3.2",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.2/DLSBot.exe",
-  "changelog": "- Healing priority redesigned: 6 slots with combined type + tier (e.g. Riders T6, Infantry T5)\n- Cars removed from healing settings\n- Claim healed troops using tier-specific templates (claim_t5, claim_t6)\n- Zero button now clicked before entering heal amount\n- Fixed: heal input field detection improved\n- Game language warning note now displays correctly",
+  "version": "1.3.3",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.3/DLSBot.exe",
+  "changelog": "- Claim button now polls continuously - clicks as soon as it appears\n- Priority: T4 removed from menu, old T4 configs auto-filtered\n- Priority dropdowns gray out already-selected options (no duplicates)\n- Help now triggers during gathering idle wait (between cycles)\n- Added detailed troop detection logging for priority debugging",
   "mandatory": false
 }
