@@ -795,6 +795,16 @@
       "path": "heal\\input_field_t5ranged.tpl",
       "hash": "02a12471a70ab6393c0c771dbe6eddc2",
       "original": "heal\\input_field_t5ranged.png"
+    },
+    {
+      "path": "heal\\claim_t5.tpl",
+      "hash": "21e9a39106c95f5b72bdb7458913a391",
+      "original": "heal\\claim_t5.png"
+    },
+    {
+      "path": "heal\\claim_t6.tpl",
+      "hash": "e634a9e8fe8c9454c7f86a6d2d21f12d",
+      "original": "heal\\claim_t6.png"
     }
   ]
 }
