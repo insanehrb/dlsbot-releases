@@ -1,6 +1,6 @@
 {
-  "version": "1.3.25",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.25/DLSBot.exe",
-  "changelog": "- Merge Game: snake pattern now locks to the corner where the max tile lives\n- No more flip-flopping between orientations each move\n- Bot builds a consistent snake toward one corner for the full game",
+  "version": "1.3.26",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.26/DLSBot.exe",
+  "changelog": "- Merge Game: max tile now actively guided back to corner when displaced by a merge\n- Previously: all moves were treated as 'safe' when max tile wasn't in a corner (bug)\n- Now: bot prefers moves that bring the max tile closer to its target corner",
   "mandatory": false
 }
