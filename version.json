@@ -1,6 +1,6 @@
 {
-  "version": "1.3.21",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.21/DLSBot.exe",
-  "changelog": "- Resize to Grid / Restore Size now apply only to selected (checked) clients\n- If no clients are checked, behavior is unchanged (affects all mode clients)",
+  "version": "1.3.22",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.22/DLSBot.exe",
+  "changelog": "- Merge Game: level 11 tiles cannot merge (hard cap)\n- Merge Game: auto-stops when 3 level-11 tiles are on the board (win condition)\n- Merge Game: corner lock handles multiple level-11 tiles simultaneously",
   "mandatory": false
 }
