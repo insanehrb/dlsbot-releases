@@ -1,6 +1,6 @@
 {
-  "version": "1.3.18",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.18/DLSBot.exe",
-  "changelog": "- New: Merge Game bot for Gunfire Gala (2048-style mini-game)\n- Expectimax AI solver with snake-pattern heuristic\n- Manual 4x4 grid input + optional OCR auto-read\n- Start/Stop control, logs every move",
+  "version": "1.3.19",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.19/DLSBot.exe",
+  "changelog": "- Merge Game moved to More Functions dialog (+ More button in General tab)\n- Merge bot auto-stops when action tokens reach 0",
   "mandatory": false
 }
