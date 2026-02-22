@@ -1,6 +1,6 @@
 {
-  "version": "1.3.19",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.19/DLSBot.exe",
-  "changelog": "- Merge Game moved to More Functions dialog (+ More button in General tab)\n- Merge bot auto-stops when action tokens reach 0",
+  "version": "1.3.20",
+  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.20/DLSBot.exe",
+  "changelog": "- Merge Game: improved corner-lock strategy (max tile stays in corner)\n- Merge Game: strong penalty when max tile leaves corner\n- Merge Game: prefers corner-safe moves (down+left or down+right etc)",
   "mandatory": false
 }
