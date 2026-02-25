@@ -1,6 +1,6 @@
 {
-    "version": "1.3.61",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.61/DLSBot.exe",
-    "changelog": "- Help task standalone: 4x3 grid, full-monitor scan for help icons simultaneously (no focus switching)\n- Help in Scheduler: focus-switch mode\n- Scheduler includes all tasks: Gathering, Healing, Bounty, Zombie, Rally, Rewards, Help\n- GUI Version toggle (top-left \u21c4 button)\n- Admin: Template Snapper tool\n- Fix: client names with underscore/space now detected correctly\n- Fix: healing claim retry (up to 3 retries, 1s interval) if claim doesn't register",
+    "version": "1.3.62",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.62/DLSBot.exe",
+    "changelog": "- Healing New Version: claim button color picker (T4/T5/T6) in settings\n  Bot waits for the configured color to appear before clicking Claim\n  Use 'Screen' eyedropper (3-sec countdown) to pick the color in-game\n- Healing settings: added '?' help button explaining each recorded position\n- Fix: healing claim retry (up to 3 retries, 1s interval) if claim doesn't register\n- Fix: client names with underscore/space now detected correctly",
     "mandatory": false
 }
