@@ -1,6 +1,6 @@
 {
-    "version": "1.3.68",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.68/DLSBot.exe",
-    "changelog": "- Healing: claim_wait_ms is now a delay before scanning \u2014 no false positives during heal animation\n- Healing: color not found after wait = no more troops (task stops)\n- Healing: color found after wait = click claim, continue healing",
+    "version": "1.3.69",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.69/DLSBot.exe",
+    "changelog": "- Healing: reverted claim to simple wait + click at recorded position\n- Healing: removed color-based claim detection",
     "mandatory": false
 }
