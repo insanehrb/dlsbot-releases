@@ -1,6 +1,6 @@
 {
-    "version": "1.3.63",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.63/DLSBot.exe",
+    "version": "1.3.64",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.64/DLSBot.exe",
     "changelog": "- Fix: DLL error on startup (python314.dll) \u2014 extract to exe folder instead of system temp\n- Fix: Sandboxie box names with spaces now work correctly\n- Healing: removed Old Version (template-based), keeping only New Version (recorded positions)\n- Healing: default wait after clicking Heal changed to 0.6s (was 5s)",
     "mandatory": false
 }
