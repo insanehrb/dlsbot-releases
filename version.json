@@ -1,6 +1,6 @@
 {
-    "version": "1.3.65",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.65/DLSBot.exe",
-    "changelog": "- Healing: claim now clicks at the exact pixel where the configured color is detected\n- Healing: removed accidental Escape press after claim (heal menu auto-closes)",
+    "version": "1.3.66",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.66/DLSBot.exe",
+    "changelog": "- Healing: claim now finds the color, clicks once at that exact spot \u2014 no retry loop\n- Healing: wounded icon template no longer used to verify claim (separated concerns)",
     "mandatory": false
 }
