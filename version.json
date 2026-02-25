@@ -1,6 +1,6 @@
 {
-    "version": "1.3.60",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.60/DLSBot.exe",
-    "changelog": "- GUI Version toggle (top-left \u21c4 button): Old Version = grid layout, New Version = original size + focus-switching\n- Help task completely reworked: standalone mode forces 4x3 grid, scans full monitor for help icons simultaneously (no focus switching), locks other tasks while active\n- Help in Scheduler: focus-switch mode at original resolution\n- Scheduler now includes all tasks: Gathering, Healing, Bounty, Zombie, Rally, Rewards, Help\n- Admin: Template Snapper tool \u2014 snap screenshot (F9), draw region, preview crop, name + save PNG (supports subfolders like help/icon)",
+    "version": "1.3.61",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.61/DLSBot.exe",
+    "changelog": "- Help task standalone: 4x3 grid, full-monitor scan for help icons simultaneously (no focus switching)\n- Help in Scheduler: focus-switch mode\n- Scheduler includes all tasks: Gathering, Healing, Bounty, Zombie, Rally, Rewards, Help\n- GUI Version toggle (top-left \u21c4 button)\n- Admin: Template Snapper tool\n- Fix: client names with underscore/space now detected correctly\n- Fix: healing claim retry (up to 3 retries, 1s interval) if claim doesn't register",
     "mandatory": false
 }
