@@ -1,6 +1,6 @@
 {
-  "version": "1.3.27",
-  "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.27/DLSBot.exe",
-  "changelog": "- Merge Game: merge exception — corner lock yields when an immediate high-value merge is available\n- Merge Game: W_MERGE increased (merge opportunities weighted more heavily)\n- Merge Game: reverted to fixed direction sets for snake structure (better than simulation)",
-  "mandatory": false
+    "version": "1.3.60",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.60/DLSBot.exe",
+    "changelog": "- GUI Version toggle (top-left \u21c4 button): Old Version = grid layout, New Version = original size + focus-switching\n- Help task completely reworked: standalone mode forces 4x3 grid, scans full monitor for help icons simultaneously (no focus switching), locks other tasks while active\n- Help in Scheduler: focus-switch mode at original resolution\n- Scheduler now includes all tasks: Gathering, Healing, Bounty, Zombie, Rally, Rewards, Help\n- Admin: Template Snapper tool \u2014 snap screenshot (F9), draw region, preview crop, name + save PNG (supports subfolders like help/icon)",
+    "mandatory": false
 }
