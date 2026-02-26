@@ -1,6 +1,6 @@
 {
-    "version": "1.4.1",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.4.1/DLSBot.exe",
-    "changelog": "- Gathering: per-client buff timestamps (8h/1d cooldown now works correctly)\n- Gathering: resource cycling per-squad (each account farms all selected resources)\n- Gathering: +0.5s wait before node force-click for reliability\n- Refinery: auto-runs after each gathering cycle (3h cooldown, template-based)\n- Help: replaced grid-scan mode with focus-switch (same as all other tasks)\n- UI: removed Old/New Version toggle \u2014 single version only\n- Resize for Help: resizes in-place to 460x322 without repositioning",
+    "version": "1.4.2",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.4.2/DLSBot.exe",
+    "changelog": "- UI: task grid is now scrollable \u2014 Refinery, Merge Game, District Showdown added to main grid\n- UI: removed '+ More Functions' popup button\n- Refinery: toggle on/off directly from the task icon (no separate settings dialog)\n- Refinery: only runs when enabled (icon toggle respected)",
     "mandatory": false
 }
