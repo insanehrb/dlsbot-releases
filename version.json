@@ -1,6 +1,6 @@
 {
-    "version": "1.3.69",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.69/DLSBot.exe",
-    "changelog": "- Healing: reverted claim to simple wait + click at recorded position\n- Healing: removed color-based claim detection",
+    "version": "1.3.70",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.70/DLSBot.exe",
+    "changelog": "- Gathering: complete rewrite with focus-switch architecture\n- Gathering: force clicks (pyautogui) for node, create squad, buff menu\n- Gathering: squad count detection via 1_5-5_5 templates in top-right region\n- Settings: removed Claim Button Colors UI\n- Scheduler: added Start button\n- Clients: auto-restart on crash with 1280x720 resize\n- Added Resize 1280x720 button (replaces Restore Size)",
     "mandatory": false
 }
