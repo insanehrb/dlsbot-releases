@@ -1,6 +1,6 @@
 {
-    "version": "1.3.70",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.3.70/DLSBot.exe",
-    "changelog": "- Gathering: complete rewrite with focus-switch architecture\n- Gathering: force clicks (pyautogui) for node, create squad, buff menu\n- Gathering: squad count detection via 1_5-5_5 templates in top-right region\n- Settings: removed Claim Button Colors UI\n- Scheduler: added Start button\n- Clients: auto-restart on crash with 1280x720 resize\n- Added Resize 1280x720 button (replaces Restore Size)",
+    "version": "1.4.1",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.4.1/DLSBot.exe",
+    "changelog": "- Gathering: per-client buff timestamps (8h/1d cooldown now works correctly)\n- Gathering: resource cycling per-squad (each account farms all selected resources)\n- Gathering: +0.5s wait before node force-click for reliability\n- Refinery: auto-runs after each gathering cycle (3h cooldown, template-based)\n- Help: replaced grid-scan mode with focus-switch (same as all other tasks)\n- UI: removed Old/New Version toggle \u2014 single version only\n- Resize for Help: resizes in-place to 460x322 without repositioning",
     "mandatory": false
 }
