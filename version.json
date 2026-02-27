@@ -1,6 +1,6 @@
 {
-    "version": "1.5.0",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.0/DLSBot.exe",
-    "changelog": "- Alliance Rewards: full rework with fixed coordinates (gifts, activity, shop, technology donations, territory, mail)\n- Startup screen: removed scanning text, added Guide button\n- UI fix: mode switch now correctly updates detected client count\n- Help task: simplified to direct fixed-coordinate click",
+    "version": "1.5.1",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.1/DLSBot.exe",
+    "changelog": "- Alliance Rewards: 1.5s delay between navigation clicks (rewards_indicator loop stays at 0.25s)\n- Configure Clients: added Select All / Deselect All buttons for Main and Farm lists",
     "mandatory": false
 }
