@@ -1,6 +1,6 @@
 {
-    "version": "1.5.17",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.17/DLSBot.exe",
-    "changelog": "- Fix: challenge popup now requires popup_challenge.png detection before clicking close_challenge.png (prevents false closes)",
+    "version": "1.5.18",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.18/DLSBot.exe",
+    "changelog": "- Gathering: node click retries up to 3 times with 0.5s delay (was 2x with 1.5s)",
     "mandatory": false
 }
