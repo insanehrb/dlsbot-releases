@@ -1,6 +1,6 @@
 {
-    "version": "1.5.8",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.8/DLSBot.exe",
-    "changelog": "- common/marker.png: primary click target for zombie, hivemind, node, alliance tech skill (fixed coord fallback retained)",
+    "version": "1.5.9",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.9/DLSBot.exe",
+    "changelog": "- Fix: gathering crash caused by numpy array boolean check on marker template",
     "mandatory": false
 }
