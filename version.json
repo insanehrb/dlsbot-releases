@@ -1,6 +1,6 @@
 {
-    "version": "1.5.7",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.7/DLSBot.exe",
-    "changelog": "- Alliance: fixed technology donation open coord (1006,578)",
+    "version": "1.5.8",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.8/DLSBot.exe",
+    "changelog": "- common/marker.png: primary click target for zombie, hivemind, node, alliance tech skill (fixed coord fallback retained)",
     "mandatory": false
 }
