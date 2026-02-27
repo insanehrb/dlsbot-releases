@@ -1,6 +1,6 @@
 {
-    "version": "1.5.2",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.2/DLSBot.exe",
-    "changelog": "- Zombie Hunt: complete rework (fixed coords, extermination card, stamina tracking, hero select, 3-column settings)\n- Bounty Ground: fixed coord navigation (1046,265) open + (643,537) match",
+    "version": "1.5.3",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.3/DLSBot.exe",
+    "changelog": "- Zombie Hunt: starting level input (delta-based level adjustment), random level range option (min/max)",
     "mandatory": false
 }
