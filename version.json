@@ -1,6 +1,6 @@
 {
-    "version": "1.4.2",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.4.2/DLSBot.exe",
-    "changelog": "- UI: task grid is now scrollable \u2014 Refinery, Merge Game, District Showdown added to main grid\n- UI: removed '+ More Functions' popup button\n- Refinery: toggle on/off directly from the task icon (no separate settings dialog)\n- Refinery: only runs when enabled (icon toggle respected)",
+    "version": "1.4.3",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.4.3/DLSBot.exe",
+    "changelog": "- Refinery: click Like popup (refinery_like.png) after claiming if visible\n- District Showdown: task skeleton added (DS.png icon detection, flow TBD)\n- New task module: DistrictShowdownTask",
     "mandatory": false
 }
