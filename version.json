@@ -1,6 +1,6 @@
 {
-    "version": "1.5.14",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.14/DLSBot.exe",
-    "changelog": "- Fix: zombie attack fallback coord updated to (1070, 557)",
+    "version": "1.5.15",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.15/DLSBot.exe",
+    "changelog": "- Fix: zombie attack fallback coord updated to (1004, 553)",
     "mandatory": false
 }
