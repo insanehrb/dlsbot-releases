@@ -1,6 +1,6 @@
 {
-    "version": "1.5.19",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.19/DLSBot.exe",
-    "changelog": "- District Showdown: always runs once on every new bot start (ignores cooldown on first cycle); pause/resume keeps counting toward cooldown",
+    "version": "1.5.20",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.20/DLSBot.exe",
+    "changelog": "- GUI minimizes when bot starts; floating overlay appears top-right with Pause and Stop buttons\n- Overlay is draggable; Pause button syncs with bot state\n- GUI restores automatically when bot is stopped",
     "mandatory": false
 }
