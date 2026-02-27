@@ -1,6 +1,6 @@
 {
-    "version": "1.5.12",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.12/DLSBot.exe",
-    "changelog": "- Fix: gathering march uses fixed coord (948,639) instead of missing template\n- Fix: alliance rewards reverted to marker1-4 only (no common marker)\n- Fix: district showdown auto roll now retries 3x with 4s UI load wait\n- Fix: farm.gathering.enabled restored to true in bundled config",
+    "version": "1.5.13",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.13/DLSBot.exe",
+    "changelog": "- Rally: replaced template-based level detection with starting_level delta approach (set current in-game level, bot calculates clicks)\n- Rally: added Starting Level field to settings dialog\n- Auto-resize: fixed to only apply small window for help task; all other tasks now always use 1280x720",
     "mandatory": false
 }
