@@ -1,6 +1,6 @@
 {
-    "version": "1.5.10",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.10/DLSBot.exe",
-    "changelog": "- Fix: reverted click priority — fixed coords are PRIMARY, marker template is FALLBACK in all tasks\n- Fix: gathering task bad coordinates (-3132,371) caused by double client-offset bug",
+    "version": "1.5.11",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.11/DLSBot.exe",
+    "changelog": "- Fix: all coordinate clicks now forced into the game window (screen coords from templates converted to client-relative before clicking)",
     "mandatory": false
 }
