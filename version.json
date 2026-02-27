@@ -1,6 +1,6 @@
 {
-    "version": "1.5.6",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.6/DLSBot.exe",
-    "changelog": "- Alliance Rewards: fixed crash when territory disabled but mail enabled\n- Scheduler: added District Showdown task\n- Guide: added Scheduler and Hotkeys sections",
+    "version": "1.5.7",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.7/DLSBot.exe",
+    "changelog": "- Alliance: fixed technology donation open coord (1006,578)",
     "mandatory": false
 }
