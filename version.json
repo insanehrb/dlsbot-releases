@@ -1,6 +1,6 @@
 {
-    "version": "1.5.15",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.15/DLSBot.exe",
-    "changelog": "- Fix: zombie attack fallback coord updated to (1004, 553)",
+    "version": "1.5.16",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.16/DLSBot.exe",
+    "changelog": "- Alliance tech: added marker5/marker6 templates; detection now scans all markers simultaneously within 2s window\n- Rally: fixed hero monitoring (two-phase: wait for appear, then wait for return)\n- Base: auto-dismiss time-limited challenge popup (close_challenge.png in templates/common/)",
     "mandatory": false
 }
