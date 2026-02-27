@@ -1,6 +1,6 @@
 {
-    "version": "1.4.5",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.4.5/DLSBot.exe",
+    "version": "1.4.6",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.4.6/DLSBot.exe",
     "changelog": "- Gathering: fallback 2nd node click if gather button not found after first click\n- Refinery: click Like popup (refinery_like.png) after claiming if visible\n- District Showdown: DistrictShowdownTask skeleton added",
     "mandatory": false
 }
