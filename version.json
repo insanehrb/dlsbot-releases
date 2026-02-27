@@ -1,6 +1,6 @@
 {
-    "version": "1.5.9",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.9/DLSBot.exe",
-    "changelog": "- Fix: gathering crash caused by numpy array boolean check on marker template",
+    "version": "1.5.10",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.10/DLSBot.exe",
+    "changelog": "- Fix: reverted click priority — fixed coords are PRIMARY, marker template is FALLBACK in all tasks\n- Fix: gathering task bad coordinates (-3132,371) caused by double client-offset bug",
     "mandatory": false
 }
