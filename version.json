@@ -1,6 +1,6 @@
 {
-    "version": "1.5.3",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.3/DLSBot.exe",
-    "changelog": "- Zombie Hunt: starting level input (delta-based level adjustment), random level range option (min/max)",
+    "version": "1.5.4",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.4/DLSBot.exe",
+    "changelog": "- Zombie Hunt: fixed re-send flow (resend_squad_attack.png after hero select)",
     "mandatory": false
 }
