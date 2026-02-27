@@ -1,6 +1,6 @@
 {
-    "version": "1.5.13",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.13/DLSBot.exe",
-    "changelog": "- Rally: replaced template-based level detection with starting_level delta approach (set current in-game level, bot calculates clicks)\n- Rally: added Starting Level field to settings dialog\n- Auto-resize: fixed to only apply small window for help task; all other tasks now always use 1280x720",
+    "version": "1.5.14",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.14/DLSBot.exe",
+    "changelog": "- Fix: zombie attack fallback coord updated to (1070, 557)",
     "mandatory": false
 }
