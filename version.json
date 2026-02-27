@@ -1,6 +1,6 @@
 {
-    "version": "1.5.18",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.18/DLSBot.exe",
-    "changelog": "- Gathering: node click retries up to 3 times with 0.5s delay (was 2x with 1.5s)",
+    "version": "1.5.19",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.19/DLSBot.exe",
+    "changelog": "- District Showdown: always runs once on every new bot start (ignores cooldown on first cycle); pause/resume keeps counting toward cooldown",
     "mandatory": false
 }
