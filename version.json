@@ -1,6 +1,6 @@
 {
-    "version": "1.4.3",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.4.3/DLSBot.exe",
-    "changelog": "- Refinery: click Like popup (refinery_like.png) after claiming if visible\n- District Showdown: task skeleton added (DS.png icon detection, flow TBD)\n- New task module: DistrictShowdownTask",
+    "version": "1.4.4",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.4.4/DLSBot.exe",
+    "changelog": "- Gathering: fallback 2nd node click if gather button not found after first click\n- Refinery: click Like popup (refinery_like.png) after claiming if visible\n- District Showdown: DistrictShowdownTask skeleton added",
     "mandatory": false
 }
