@@ -1,6 +1,6 @@
 {
-    "version": "1.5.36",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.36/DLSBot.exe",
-    "changelog": "- Debug: log click_template coordinates to trace gold mall opens",
+    "version": "1.5.37",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.37/DLSBot.exe",
+    "changelog": "- Gathering: restrict low-threshold template searches to exclude top nav bar (gold mall fix)",
     "mandatory": false
 }
