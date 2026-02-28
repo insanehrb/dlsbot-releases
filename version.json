@@ -1,6 +1,6 @@
 {
-    "version": "1.5.22",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.22/DLSBot.exe",
-    "changelog": "- Rally: fixed hero wait logic — detected=busy, not detected=free; 60s minimum wait after sending before polling starts",
+    "version": "1.5.23",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.23/DLSBot.exe",
+    "changelog": "- Rally: hero detection now checks BOTH Peggy AND Russell (either detected = busy); pre-cycle guard prevents starting next rally while hero is deployed",
     "mandatory": false
 }
