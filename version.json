@@ -1,6 +1,6 @@
 {
-    "version": "1.5.21",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.21/DLSBot.exe",
-    "changelog": "- District Showdown: safe click at (685, 29) if no event detected for 15s (dismisses stray popups blocking auto roll)",
+    "version": "1.5.22",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.22/DLSBot.exe",
+    "changelog": "- Rally: fixed hero wait logic — detected=busy, not detected=free; 60s minimum wait after sending before polling starts",
     "mandatory": false
 }
