@@ -1,6 +1,6 @@
 {
-    "version": "1.5.28",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.28/DLSBot.exe",
-    "changelog": "- DS: detect stop_auto.png and click close_popup to recover\n- Gathering: also dismiss top-right corner after failed node click (closes alliance/gold-mall menus)",
+    "version": "1.5.29",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.29/DLSBot.exe",
+    "changelog": "- DS: stop_auto.png visible = auto roll is running — reset idle timer only, no click",
     "mandatory": false
 }
