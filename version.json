@@ -1,6 +1,6 @@
 {
-    "version": "1.5.38",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.38/DLSBot.exe",
-    "changelog": "- DS: replace close_popup template click with safe click (fixes gold mall opens)",
+    "version": "1.5.39",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.39/DLSBot.exe",
+    "changelog": "- Gathering: tighten template search regions to fix accidental alliance/gold mall opens",
     "mandatory": false
 }
