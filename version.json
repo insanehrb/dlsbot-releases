@@ -1,6 +1,6 @@
 {
-    "version": "1.5.34",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.34/DLSBot.exe",
-    "changelog": "- Gathering: remove blind dismiss click after failed node click",
+    "version": "1.5.35",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.35/DLSBot.exe",
+    "changelog": "- Gathering: disable challenge popup detection temporarily (testing gold mall cause)",
     "mandatory": false
 }
