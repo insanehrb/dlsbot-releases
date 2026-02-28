@@ -1,6 +1,6 @@
 {
-    "version": "1.5.41",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.41/DLSBot.exe",
-    "changelog": "- Gathering: replace search button and gather button template matches with fixed coordinates",
+    "version": "1.5.42",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.42/DLSBot.exe",
+    "changelog": "- Refinery is now a standalone task in task order (no longer tied to gathering)",
     "mandatory": false
 }
