@@ -1,6 +1,6 @@
 {
-    "version": "1.5.27",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.27/DLSBot.exe",
-    "changelog": "- Gathering: dismiss any accidentally-opened menu after each failed node click\n- Refinery: detect refinery_like_menu.png and click refinery_like.png to dismiss mid-flow",
+    "version": "1.5.28",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.28/DLSBot.exe",
+    "changelog": "- DS: detect stop_auto.png and click close_popup to recover\n- Gathering: also dismiss top-right corner after failed node click (closes alliance/gold-mall menus)",
     "mandatory": false
 }
