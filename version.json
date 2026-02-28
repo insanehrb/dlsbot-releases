@@ -1,6 +1,6 @@
 {
-    "version": "1.5.24",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.24/DLSBot.exe",
-    "changelog": "- Rally: wait 4 minutes after march before polling for hero return",
+    "version": "1.5.25",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.25/DLSBot.exe",
+    "changelog": "- Rally: lower hero detection threshold to 0.60; logs confidence score each poll so you can tune it",
     "mandatory": false
 }
