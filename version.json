@@ -1,6 +1,6 @@
 {
-    "version": "1.5.26",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.26/DLSBot.exe",
-    "changelog": "- DS: after 4 idle safe-clicks with no dice event, restart auto roll to recover from stuck rewards popup",
+    "version": "1.5.27",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.27/DLSBot.exe",
+    "changelog": "- Gathering: dismiss any accidentally-opened menu after each failed node click\n- Refinery: detect refinery_like_menu.png and click refinery_like.png to dismiss mid-flow",
     "mandatory": false
 }
