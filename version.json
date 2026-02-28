@@ -1,6 +1,6 @@
 {
-    "version": "1.5.25",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.25/DLSBot.exe",
-    "changelog": "- Rally: lower hero detection threshold to 0.60; logs confidence score each poll so you can tune it",
+    "version": "1.5.26",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.26/DLSBot.exe",
+    "changelog": "- DS: after 4 idle safe-clicks with no dice event, restart auto roll to recover from stuck rewards popup",
     "mandatory": false
 }
