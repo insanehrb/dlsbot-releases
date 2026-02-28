@@ -1,6 +1,6 @@
 {
-    "version": "1.5.30",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.30/DLSBot.exe",
-    "changelog": "- Gathering: longer waits after search (6s) and after node click (1s) to let the map fully settle before clicking; dismiss wait 1.5s",
+    "version": "1.5.31",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.31/DLSBot.exe",
+    "changelog": "- Gathering: updated create squad coordinate to (970, 247)",
     "mandatory": false
 }
