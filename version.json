@@ -1,6 +1,6 @@
 {
-    "version": "1.5.31",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.31/DLSBot.exe",
-    "changelog": "- Gathering: updated create squad coordinate to (970, 247)",
+    "version": "1.5.32",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.32/DLSBot.exe",
+    "changelog": "- Gathering: wait 3s after gather click before clicking create squad (was 1.5s) to prevent gold mall open",
     "mandatory": false
 }
