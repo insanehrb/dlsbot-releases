@@ -1,6 +1,6 @@
 {
-    "version": "1.5.35",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.35/DLSBot.exe",
-    "changelog": "- Gathering: disable challenge popup detection temporarily (testing gold mall cause)",
+    "version": "1.5.36",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.36/DLSBot.exe",
+    "changelog": "- Debug: log click_template coordinates to trace gold mall opens",
     "mandatory": false
 }
