@@ -1,6 +1,6 @@
 {
-    "version": "1.5.32",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.32/DLSBot.exe",
-    "changelog": "- Gathering: wait 3s after gather click before clicking create squad (was 1.5s) to prevent gold mall open",
+    "version": "1.5.33",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.33/DLSBot.exe",
+    "changelog": "- Gathering: remove top-right corner dismiss click that was opening gold mall; revert gather delay to 1.5s",
     "mandatory": false
 }
