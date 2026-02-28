@@ -1,6 +1,6 @@
 {
-    "version": "1.5.23",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.23/DLSBot.exe",
-    "changelog": "- Rally: hero detection now checks BOTH Peggy AND Russell (either detected = busy); pre-cycle guard prevents starting next rally while hero is deployed",
+    "version": "1.5.24",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.5.24/DLSBot.exe",
+    "changelog": "- Rally: wait 4 minutes after march before polling for hero return",
     "mandatory": false
 }
