@@ -1,6 +1,6 @@
 {
-    "version": "1.6.1",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.6.1/DLSBot.exe",
-    "changelog": "- New coord-based input: smooth visible mouse movement for all clicks\n- Occupied node detection with auto-retry (up to 3x)\n- Alliance menu recovery if squad accidentally recalled\n- Faster gathering loop, no shelter re-entry between squads",
+    "version": "1.6.2",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.6.2/DLSBot.exe",
+    "changelog": "- Buff bag located via template (adapts to any player level / screen position)\n- Mouse moves visibly to buff bag before clicking",
     "mandatory": false
 }
