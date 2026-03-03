@@ -1,6 +1,6 @@
 {
-    "version": "1.6.4",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.6.4/DLSBot.exe",
-    "changelog": "- Healing: removed color detection\n- Healing: close1/close2 template recovery if wrong menu opens",
+    "version": "1.6.5",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.6.5/DLSBot.exe",
+    "changelog": "- Healing: visible mouse movement for all clicks",
     "mandatory": false
 }
