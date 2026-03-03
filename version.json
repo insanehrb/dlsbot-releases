@@ -1,6 +1,6 @@
 {
-    "version": "1.7.7",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.7/DLSBot.exe",
-    "changelog": "- Set Priority button: set task execution order\n- Exclusivity rules: Heal/Help/Merge solo; Zombie+Rally only with Refinery\n- Refinery now runs in automation\n- Alliance: faster mouse, shorter delays",
+    "version": "1.7.8",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.8/DLSBot.exe",
+    "changelog": "- Priority dialog: drag ⠿ handle to reorder tasks\n- General tab: fixed mousewheel scrolling",
     "mandatory": false
 }
