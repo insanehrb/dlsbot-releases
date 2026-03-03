@@ -1,6 +1,6 @@
 {
-    "version": "1.6.2",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.6.2/DLSBot.exe",
-    "changelog": "- Buff bag located via template (adapts to any player level / screen position)\n- Mouse moves visibly to buff bag before clicking",
+    "version": "1.6.3",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.6.3/DLSBot.exe",
+    "changelog": "- Auto-scan for clients at automation startup (picks up newly opened windows)\n- Commander Info OCR fallback for window identification without Sandboxie",
     "mandatory": false
 }
