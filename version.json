@@ -1,6 +1,6 @@
 {
-    "version": "1.6.9",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.6.9/DLSBot.exe",
-    "changelog": "- Healing: mouse speed setting now actually works",
+    "version": "1.7.0",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.0/DLSBot.exe",
+    "changelog": "- Healing: removed unnecessary click delays\n- Healing: configurable panel open wait (ms) in settings",
     "mandatory": false
 }
