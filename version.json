@@ -1,6 +1,6 @@
 {
-    "version": "1.7.1",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.1/DLSBot.exe",
-    "changelog": "- All tasks: visible mouse movement for coordinate clicks\n- Zombie/Rally: press-hold-release on map target click",
+    "version": "1.7.2",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.2/DLSBot.exe",
+    "changelog": "- Bounty Ground: full coord navigation (campaign\u2192bounty\u2192match\u2192return)\n- Bounty Ground: popup detected by template, closed with coords\n- Bounty Ground: return arrow used as menu indicator",
     "mandatory": false
 }
