@@ -1,6 +1,6 @@
 {
-    "version": "1.6.3",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.6.3/DLSBot.exe",
-    "changelog": "- Auto-scan for clients at automation startup (picks up newly opened windows)\n- Commander Info OCR fallback for window identification without Sandboxie",
+    "version": "1.6.4",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.6.4/DLSBot.exe",
+    "changelog": "- Healing: removed color detection\n- Healing: close1/close2 template recovery if wrong menu opens",
     "mandatory": false
 }
