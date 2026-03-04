@@ -1,6 +1,6 @@
 {
-    "version": "1.7.19",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.19/DLSBot.exe",
-    "changelog": "- Refinery: detailed screenshot diagnostics",
+    "version": "1.7.20",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.20/DLSBot.exe",
+    "changelog": "- Refinery: fix window handle bug (was passing dict instead of hwnd)",
     "mandatory": false
 }
