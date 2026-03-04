@@ -1,6 +1,6 @@
 {
-    "version": "1.7.17",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.17/DLSBot.exe",
-    "changelog": "- Refinery: full rewrite with correct detect→click coord flow",
+    "version": "1.7.18",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.18/DLSBot.exe",
+    "changelog": "- Refinery: confidence logging + threshold 0.50",
     "mandatory": false
 }
