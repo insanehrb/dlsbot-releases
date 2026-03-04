@@ -1,6 +1,6 @@
 {
-    "version": "1.7.21",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.21/DLSBot.exe",
-    "changelog": "- Refinery: dismiss popup on start, click refinery_like after open, 150ms mouse",
+    "version": "1.7.22",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.22/DLSBot.exe",
+    "changelog": "- All tasks: buff + challenge popup dismissal active\n- Refinery: conditional popup check replaces blind safe-click",
     "mandatory": false
 }
