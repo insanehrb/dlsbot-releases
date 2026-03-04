@@ -1,6 +1,6 @@
 {
-    "version": "1.7.13",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.13/DLSBot.exe",
-    "changelog": "- Refinery: full-screen icon detection (no region restriction)",
+    "version": "1.7.14",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.14/DLSBot.exe",
+    "changelog": "- Refinery: debug confidence logging for icon detection",
     "mandatory": false
 }
