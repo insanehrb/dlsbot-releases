@@ -1,6 +1,6 @@
 {
-    "version": "1.7.18",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.18/DLSBot.exe",
-    "changelog": "- Refinery: confidence logging + threshold 0.50",
+    "version": "1.7.19",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.19/DLSBot.exe",
+    "changelog": "- Refinery: detailed screenshot diagnostics",
     "mandatory": false
 }
