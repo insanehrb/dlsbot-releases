@@ -1,6 +1,6 @@
 {
-    "version": "1.7.10",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.10/DLSBot.exe",
-    "changelog": "- Refinery: fixed icon detection (lowered threshold)",
+    "version": "1.7.11",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.11/DLSBot.exe",
+    "changelog": "- Refinery: icon detection restricted to bottom-right corner",
     "mandatory": false
 }
