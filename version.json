@@ -1,6 +1,6 @@
 {
-    "version": "1.7.14",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.14/DLSBot.exe",
-    "changelog": "- Refinery: debug confidence logging for icon detection",
+    "version": "1.7.15",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.15/DLSBot.exe",
+    "changelog": "- Refinery: click icon by coord, verify menu opened before proceeding",
     "mandatory": false
 }
