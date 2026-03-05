@@ -1,6 +1,6 @@
 {
-    "version": "1.7.25",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.25/DLSBot.exe",
-    "changelog": "- Scheduler: task buttons auto-toggle ON/OFF as blocks switch\n- Scheduler: no longer requires tasks pre-enabled in General tab\n- Scheduler: added Water War and Refinery to task list\n- Scheduler: Stop mid-block correctly resets the active task button",
+    "version": "1.7.26",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.26/DLSBot.exe",
+    "changelog": "- Healing: separate Claim button position (optional, falls back to Wounded position)\n- Healing: Zero Wait timing field added to both DLSBot and DLSHealing\n- Healing: pyautogui timing fix applied to DLSBot built-in healing\n- Healing: 'Panel open wait' renamed to 'Wounded wait' for clarity",
     "mandatory": false
 }
