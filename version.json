@@ -1,6 +1,6 @@
 {
-    "version": "1.7.23",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.23/DLSBot.exe",
-    "changelog": "- Gathering buff: 8h\u219224h fallback when 8h unavailable\n- Gathering buff: correct timer after fallback (24h not 8h)\n- Gathering buff: 1h cooldown when no buffs available (stops bag hammering)",
+    "version": "1.7.24",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.24/DLSBot.exe",
+    "changelog": "- Task exclusivity: zombie \u2194 rally mutually exclusive\n- Task exclusivity: gathering incompatible with zombie/rally\n- Waterwar now locks all other tasks (solo)\n- Solo tasks (heal/help/merge/waterwar) locked when any other task is running",
     "mandatory": false
 }
