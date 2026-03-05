@@ -1,6 +1,6 @@
 {
-    "version": "1.7.24",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.24/DLSBot.exe",
-    "changelog": "- Task exclusivity: zombie \u2194 rally mutually exclusive\n- Task exclusivity: gathering incompatible with zombie/rally\n- Waterwar now locks all other tasks (solo)\n- Solo tasks (heal/help/merge/waterwar) locked when any other task is running",
+    "version": "1.7.25",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.25/DLSBot.exe",
+    "changelog": "- Scheduler: task buttons auto-toggle ON/OFF as blocks switch\n- Scheduler: no longer requires tasks pre-enabled in General tab\n- Scheduler: added Water War and Refinery to task list\n- Scheduler: Stop mid-block correctly resets the active task button",
     "mandatory": false
 }
