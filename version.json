@@ -1,6 +1,6 @@
 {
-    "version": "1.7.22",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.22/DLSBot.exe",
-    "changelog": "- All tasks: buff + challenge popup dismissal active\n- Refinery: conditional popup check replaces blind safe-click",
+    "version": "1.7.23",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.23/DLSBot.exe",
+    "changelog": "- Gathering buff: 8h\u219224h fallback when 8h unavailable\n- Gathering buff: correct timer after fallback (24h not 8h)\n- Gathering buff: 1h cooldown when no buffs available (stops bag hammering)",
     "mandatory": false
 }
