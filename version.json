@@ -1,6 +1,6 @@
 {
-    "version": "1.7.27",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.27/DLSBot.exe",
-    "changelog": "- Healing: timing labels renamed for clarity (Open Healing Menu wait / Resetting troops to 0 wait)\n- Merge Game: strategy updated to top-left corner anchor\n- Zombie Hunt: restart search if attack button not visible after clicking zombie\n- Rally: cleaner no-hivemind detection fallback",
+    "version": "1.7.28",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.28/DLSBot.exe",
+    "changelog": "- Zombie Hunt: fix attack button detection (correct template name)\n- Zombie Hunt: properly restart search when no zombie found at selected level\n- Zombie Hunt: recover to world map after failed cycle\n- Rally: fix edge case when start_rally template is missing",
     "mandatory": false
 }
