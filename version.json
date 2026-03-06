@@ -1,6 +1,6 @@
 {
-    "version": "1.7.30",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.30/DLSBot.exe",
-    "changelog": "- Zombie Hunt: click refill_stamina button after selecting stamina tier\n- Rally: stamina support added (configure counts in Rally Settings)\n- Rally Settings: new Stamina section",
+    "version": "1.7.31",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.31/DLSBot.exe",
+    "changelog": "- Zombie Hunt: fix re-send squad for subsequent kills (click hero then march directly)",
     "mandatory": false
 }
