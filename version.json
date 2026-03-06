@@ -1,6 +1,6 @@
 {
-    "version": "1.7.29",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.29/DLSBot.exe",
-    "changelog": "- Zombie Hunt: fix crash when checking attack button visibility\n- Zombie Hunt: correctly restart search when no zombie found at selected level",
+    "version": "1.7.30",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.30/DLSBot.exe",
+    "changelog": "- Zombie Hunt: click refill_stamina button after selecting stamina tier\n- Rally: stamina support added (configure counts in Rally Settings)\n- Rally Settings: new Stamina section",
     "mandatory": false
 }
