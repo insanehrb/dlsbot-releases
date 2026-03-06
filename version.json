@@ -1,6 +1,6 @@
 {
-    "version": "1.7.28",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.28/DLSBot.exe",
-    "changelog": "- Zombie Hunt: fix attack button detection (correct template name)\n- Zombie Hunt: properly restart search when no zombie found at selected level\n- Zombie Hunt: recover to world map after failed cycle\n- Rally: fix edge case when start_rally template is missing",
+    "version": "1.7.29",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.29/DLSBot.exe",
+    "changelog": "- Zombie Hunt: fix crash when checking attack button visibility\n- Zombie Hunt: correctly restart search when no zombie found at selected level",
     "mandatory": false
 }
