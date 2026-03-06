@@ -1,6 +1,6 @@
 {
-    "version": "1.7.26",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.26/DLSBot.exe",
-    "changelog": "- Healing: separate Claim button position (optional, falls back to Wounded position)\n- Healing: Zero Wait timing field added to both DLSBot and DLSHealing\n- Healing: pyautogui timing fix applied to DLSBot built-in healing\n- Healing: 'Panel open wait' renamed to 'Wounded wait' for clarity",
+    "version": "1.7.27",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.27/DLSBot.exe",
+    "changelog": "- Healing: timing labels renamed for clarity (Open Healing Menu wait / Resetting troops to 0 wait)\n- Merge Game: strategy updated to top-left corner anchor\n- Zombie Hunt: restart search if attack button not visible after clicking zombie\n- Rally: cleaner no-hivemind detection fallback",
     "mandatory": false
 }
