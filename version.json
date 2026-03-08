@@ -1,6 +1,6 @@
 {
-    "version": "1.7.42",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.42/DLSBot.exe",
-    "changelog": "- Help Multibox: Help Multibox: click-through — click thumbnail to send proportional click to game window",
+    "version": "1.7.43",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.43/DLSBot.exe",
+    "changelog": "- Help Multibox: game clients now embedded directly into the multibox dialog via SetParent (true window reparenting, not previews)",
     "mandatory": false
 }
