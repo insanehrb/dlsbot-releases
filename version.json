@@ -1,6 +1,6 @@
 {
-    "version": "1.7.36",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.36/DLSBot.exe",
-    "changelog": "- Merge Game: fix false 'no valid move' when RIGHT/DOWN is the only unblocking move",
+    "version": "1.7.37",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.37/DLSBot.exe",
+    "changelog": "- Merge Game: stronger chain-building heuristic (sum 4^tile, doubled corner lock)",
     "mandatory": false
 }
