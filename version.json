@@ -1,6 +1,6 @@
 {
-    "version": "1.7.34",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.34/DLSBot.exe",
-    "changelog": "- Merge Game: fix logic (hard-ban DOWN moves, stronger corner anchor penalty)",
+    "version": "1.7.35",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.35/DLSBot.exe",
+    "changelog": "- Merge Game: rework heuristic (exponential snake mask + 4^max_tile progression)",
     "mandatory": false
 }
