@@ -1,6 +1,6 @@
 {
-    "version": "1.7.39",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.39/DLSBot.exe",
-    "changelog": "- Help Multibox: fix DWM thumbnails, fix F10 hotkey, configurable help X/Y coords, improved UI",
+    "version": "1.7.40",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.40/DLSBot.exe",
+    "changelog": "- Help Multibox: Embed button, Pick coordinate, zombie rightmost attack fix",
     "mandatory": false
 }
