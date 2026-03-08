@@ -1,6 +1,6 @@
 {
-    "version": "1.7.40",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.40/DLSBot.exe",
-    "changelog": "- Help Multibox: Embed button, Pick coordinate, zombie rightmost attack fix",
+    "version": "1.7.41",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.41/DLSBot.exe",
+    "changelog": "- Help Multibox: Help Multibox: fix DWM thumbnail embedding (GetParent + ScreenToClient)",
     "mandatory": false
 }
