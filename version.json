@@ -1,6 +1,6 @@
 {
-    "version": "1.7.44",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.44/DLSBot.exe",
-    "changelog": "- Help Multibox: 'Mirror clicks' toggle — every LMB/RMB on the primary client is proportionally mirrored to all other embedded clients\n- Fix: embedded windows now restore correctly when main app is closed\n- Fix: cell sizing on initial embed no longer shows black frames",
+    "version": "1.7.45",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.45/DLSBot.exe",
+    "changelog": "- Mirror clicks now use Interception kernel input (not PostMessage) — works with all games\n- Fix: Start button works when primary client is embedded\n- Fix: cell sizes update correctly when dialog is resized\n- Fix: embedded client count shows actual successful embeds",
     "mandatory": false
 }
