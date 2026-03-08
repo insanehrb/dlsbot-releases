@@ -1,6 +1,6 @@
 {
-    "version": "1.7.35",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.35/DLSBot.exe",
-    "changelog": "- Merge Game: rework heuristic (exponential snake mask + 4^max_tile progression)",
+    "version": "1.7.36",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.36/DLSBot.exe",
+    "changelog": "- Merge Game: fix false 'no valid move' when RIGHT/DOWN is the only unblocking move",
     "mandatory": false
 }
