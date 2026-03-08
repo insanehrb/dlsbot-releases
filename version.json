@@ -1,6 +1,6 @@
 {
-    "version": "1.7.32",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.32/DLSBot.exe",
-    "changelog": "- Zombie Hunt: fix attack button, fix random level drift, fix squad re-send\n- Bounty Ground: fix false match-complete and false map-entry detection",
+    "version": "1.7.33",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.33/DLSBot.exe",
+    "changelog": "- Zombie Hunt: fix attack button template matching",
     "mandatory": false
 }
