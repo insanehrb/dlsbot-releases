@@ -1,6 +1,6 @@
 {
-    "version": "1.7.38",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.38/DLSBot.exe",
-    "changelog": "- Help Multibox: live DWM thumbnails, auto-calculated cell size, 30-client support, resizable dialog",
+    "version": "1.7.39",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.39/DLSBot.exe",
+    "changelog": "- Help Multibox: fix DWM thumbnails, fix F10 hotkey, configurable help X/Y coords, improved UI",
     "mandatory": false
 }
