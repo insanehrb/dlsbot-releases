@@ -1,6 +1,6 @@
 {
-    "version": "1.7.57",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.57/DLSBot.exe",
-    "changelog": "- Fix: crash on Load button in Help Multibox (ctypes restype bug replaced with safe mmap)",
+    "version": "1.7.58",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.58/DLSBot.exe",
+    "changelog": "- Add: Unembed button in Help Multibox restores all clients without restarting them",
     "mandatory": true
 }
