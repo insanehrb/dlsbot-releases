@@ -1,6 +1,6 @@
 {
-    "version": "1.7.52",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.52/DLSBot.exe",
-    "changelog": "- Rework: Help Multibox now uses DWM live thumbnails (ISBoxer-style) — no more window embedding\n- Fix: closing multibox no longer crashes clients\n- Fix: clicks now PostMessage to real top-level game windows (much more reliable)",
+    "version": "1.7.53",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.53/DLSBot.exe",
+    "changelog": "- Fix: multibox Load now finds clients reliably (HWNDs cached at open time, not lost to background scanner)",
     "mandatory": true
 }
