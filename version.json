@@ -1,6 +1,6 @@
 {
-    "version": "1.7.50",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.50/DLSBot.exe",
-    "changelog": "- Fix: startup crash 'Failed to load Python DLL python314.dll' — DLL now explicitly bundled",
+    "version": "1.7.51",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.51/DLSBot.exe",
+    "changelog": "- Fix: mirror clicks now work correctly — cursor clipped to primary window, fast taps detected, movement mirrored",
     "mandatory": true
 }
