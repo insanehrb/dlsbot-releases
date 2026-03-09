@@ -1,6 +1,6 @@
 {
-    "version": "1.7.54",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.54/DLSBot.exe",
-    "changelog": "- Rework: Help Multibox uses SetParent embedding (lower GPU load) with withdraw-on-close (no crashes)\n- Fix: mirror input now uses same absolute coords, cursor clipped while held, fast-tap detection",
+    "version": "1.7.55",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.55/DLSBot.exe",
+    "changelog": "- Rework: Help Multibox stacks all clients at same screen position — clicks, drag, and movement mirror to all clients simultaneously with no extra code",
     "mandatory": true
 }
