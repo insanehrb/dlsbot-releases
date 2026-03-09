@@ -1,6 +1,6 @@
 {
-    "version": "1.7.53",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.53/DLSBot.exe",
-    "changelog": "- Fix: multibox Load now finds clients reliably (HWNDs cached at open time, not lost to background scanner)",
+    "version": "1.7.54",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.54/DLSBot.exe",
+    "changelog": "- Rework: Help Multibox uses SetParent embedding (lower GPU load) with withdraw-on-close (no crashes)\n- Fix: mirror input now uses same absolute coords, cursor clipped while held, fast-tap detection",
     "mandatory": true
 }
