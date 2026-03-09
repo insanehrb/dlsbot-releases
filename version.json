@@ -1,6 +1,6 @@
 {
-    "version": "1.7.61",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.61/DLSBot.exe",
-    "changelog": "- Fix: SBIE2224 error on DLL injection — hook DLL no longer requires MinGW runtime",
+    "version": "1.7.62",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.62/DLSBot.exe",
+    "changelog": "- Fix: SBIE2224 fixed, blank thumbnails fixed, 32-bit game support added",
     "mandatory": true
 }
