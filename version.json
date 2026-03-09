@@ -1,6 +1,6 @@
 {
-    "version": "1.7.47",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.47/DLSBot.exe",
-    "changelog": "- CRITICAL FIX: mirror clicks no longer freeze the mouse (removed dangerous Interception init from background thread)\n- Mirror clicks now show 'start the bot first' message if Interception isn't initialized\n- Fix: clicking Embed again no longer loses already-embedded clients\n- Fix: fullscreen/resize now correctly updates all embedded game window sizes",
-    "mandatory": true
+    "version": "1.7.49",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.49/DLSBot.exe",
+    "changelog": "- Mirror clicks: full input mirroring (click, drag, RMB) — all simultaneous via PostMessage, works without bot running\n- Start no longer re-embeds clients if grid is already set up\n- Closing the Help dialog no longer unembeds clients — reopen dialog to adjust settings without losing embedding",
+    "mandatory": false
 }
