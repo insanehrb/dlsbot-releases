@@ -1,6 +1,6 @@
 {
-    "version": "1.7.46",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.46/DLSBot.exe",
-    "changelog": "- Fix: embedded clients no longer disappear after periodic scan (they're re-injected back into the registry)\n- Fix: Pick button now works when primary client is embedded\n- Fix: mirror clicks now auto-initialize Interception even without starting main bot\n- Smooth mouse movement: cursor now visibly glides to target in 8 steps (reduces client lag on long runs)",
-    "mandatory": false
+    "version": "1.7.47",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.47/DLSBot.exe",
+    "changelog": "- CRITICAL FIX: mirror clicks no longer freeze the mouse (removed dangerous Interception init from background thread)\n- Mirror clicks now show 'start the bot first' message if Interception isn't initialized\n- Fix: clicking Embed again no longer loses already-embedded clients\n- Fix: fullscreen/resize now correctly updates all embedded game window sizes",
+    "mandatory": true
 }
