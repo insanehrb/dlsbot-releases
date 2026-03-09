@@ -1,6 +1,6 @@
 {
-    "version": "1.7.59",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.59/DLSBot.exe",
-    "changelog": "- Add: Sandboxie InjectDll64 mirror input (clicks/drags work on all clients simultaneously)",
+    "version": "1.7.60",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.60/DLSBot.exe",
+    "changelog": "- Add: Help Multibox shows live DWM thumbnails of all clients in a resizable grid",
     "mandatory": true
 }
