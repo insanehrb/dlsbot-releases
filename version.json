@@ -1,6 +1,6 @@
 {
-    "version": "1.7.51",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.51/DLSBot.exe",
-    "changelog": "- Fix: mirror clicks now work correctly — cursor clipped to primary window, fast taps detected, movement mirrored",
+    "version": "1.7.52",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.52/DLSBot.exe",
+    "changelog": "- Rework: Help Multibox now uses DWM live thumbnails (ISBoxer-style) — no more window embedding\n- Fix: closing multibox no longer crashes clients\n- Fix: clicks now PostMessage to real top-level game windows (much more reliable)",
     "mandatory": true
 }
