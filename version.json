@@ -1,6 +1,6 @@
 {
-    "version": "1.7.58",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.58/DLSBot.exe",
-    "changelog": "- Add: Unembed button in Help Multibox restores all clients without restarting them",
+    "version": "1.7.59",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.59/DLSBot.exe",
+    "changelog": "- Add: Sandboxie InjectDll64 mirror input (clicks/drags work on all clients simultaneously)",
     "mandatory": true
 }
