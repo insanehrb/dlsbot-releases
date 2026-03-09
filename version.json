@@ -1,6 +1,6 @@
 {
-    "version": "1.7.56",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.56/DLSBot.exe",
-    "changelog": "- Rework: Help Multibox uses Frida process injection to hook GetAsyncKeyState + GetCursorPos in each mirror — true simultaneous input mirroring (clicks, drag, movement all work)",
+    "version": "1.7.57",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.57/DLSBot.exe",
+    "changelog": "- Fix: crash on Load button in Help Multibox (ctypes restype bug replaced with safe mmap)",
     "mandatory": true
 }
