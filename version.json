@@ -1,6 +1,6 @@
 {
-    "version": "1.7.45",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.45/DLSBot.exe",
-    "changelog": "- Mirror clicks now use Interception kernel input (not PostMessage) — works with all games\n- Fix: Start button works when primary client is embedded\n- Fix: cell sizes update correctly when dialog is resized\n- Fix: embedded client count shows actual successful embeds",
+    "version": "1.7.46",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.46/DLSBot.exe",
+    "changelog": "- Fix: embedded clients no longer disappear after periodic scan (they're re-injected back into the registry)\n- Fix: Pick button now works when primary client is embedded\n- Fix: mirror clicks now auto-initialize Interception even without starting main bot\n- Smooth mouse movement: cursor now visibly glides to target in 8 steps (reduces client lag on long runs)",
     "mandatory": false
 }
