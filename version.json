@@ -1,6 +1,6 @@
 {
-    "version": "1.7.49",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.49/DLSBot.exe",
-    "changelog": "- Mirror clicks: full input mirroring (click, drag, RMB) — all simultaneous via PostMessage, works without bot running\n- Start no longer re-embeds clients if grid is already set up\n- Closing the Help dialog no longer unembeds clients — reopen dialog to adjust settings without losing embedding",
-    "mandatory": false
+    "version": "1.7.50",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.50/DLSBot.exe",
+    "changelog": "- Fix: startup crash 'Failed to load Python DLL python314.dll' — DLL now explicitly bundled",
+    "mandatory": true
 }
