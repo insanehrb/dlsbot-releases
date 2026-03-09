@@ -1,6 +1,6 @@
 {
-    "version": "1.7.55",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.55/DLSBot.exe",
-    "changelog": "- Rework: Help Multibox stacks all clients at same screen position — clicks, drag, and movement mirror to all clients simultaneously with no extra code",
+    "version": "1.7.56",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.56/DLSBot.exe",
+    "changelog": "- Rework: Help Multibox uses Frida process injection to hook GetAsyncKeyState + GetCursorPos in each mirror — true simultaneous input mirroring (clicks, drag, movement all work)",
     "mandatory": true
 }
