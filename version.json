@@ -1,6 +1,6 @@
 {
-    "version": "1.7.63",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.63/DLSBot.exe",
-    "changelog": "- Fix: Inject cleans all old stale hook entries before writing fresh ones (no more SBIE2224 from old path)",
+    "version": "1.7.66",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.66/DLSBot.exe",
+    "changelog": "- Mail task: pause/stop checks between every step, safe click fixed\n- Alliance rewards: always click topmost indicator\n- Zombie/Rally: stamina type checkboxes, march wait + kill timeout\n- Refinery: bail after 3 no-progress attempts\n- Removed Optimize Clients button",
     "mandatory": true
 }
