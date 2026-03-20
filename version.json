@@ -1,6 +1,6 @@
 {
-    "version": "1.7.67",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.67/DLSBot.exe",
-    "changelog": "- Fix: hook DLLs correctly placed next to exe on startup",
+    "version": "1.7.68",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.68/DLSBot.exe",
+    "changelog": "- Help task integrated (template-based, 6x5 resize grid)\n- Mail: 1s wait before safe click, 2s fallback close check",
     "mandatory": true
 }
