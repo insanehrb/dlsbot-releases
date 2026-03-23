@@ -1,6 +1,6 @@
 {
-    "version": "1.7.68",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.68/DLSBot.exe",
-    "changelog": "- Help task integrated (template-based, 6x5 resize grid)\n- Mail: 1s wait before safe click, 2s fallback close check",
+    "version": "1.7.69",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.69/DLSBot.exe",
+    "changelog": "- Rewards always runs on first bot launch\n- Mail: template-based open/close with retries\n- Background popup monitor (30s interval, no focus steal)\n- Mail double safe-click after each tab",
     "mandatory": true
 }
