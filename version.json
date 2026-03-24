@@ -1,6 +1,6 @@
 {
-    "version": "1.7.69",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.69/DLSBot.exe",
-    "changelog": "- Rewards always runs on first bot launch\n- Mail: template-based open/close with retries\n- Background popup monitor (30s interval, no focus steal)\n- Mail double safe-click after each tab",
-    "mandatory": true
+    "version": "1.7.70",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.70/DLSBot.exe",
+    "changelog": "- Beast Invasion task added (AFK try-again clicker)\n- Add try_again.png to templates/invasion/ to activate",
+    "mandatory": false
 }
