@@ -1,6 +1,6 @@
 {
-    "version": "1.7.70",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.70/DLSBot.exe",
-    "changelog": "- Beast Invasion task added (AFK try-again clicker)\n- Add try_again.png to templates/invasion/ to activate",
+    "version": "1.7.71",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.7.71/DLSBot.exe",
+    "changelog": "- Beast Invasion: clicks Next Stage on win, Challenge after Try Again\n- Templates can be added next to exe without rebuilding",
     "mandatory": false
 }
