@@ -1,6 +1,6 @@
 {
-    "version": "1.8.3",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.8.3/DLSBot.exe",
-    "changelog": "- Fix: back/return arrow now clicked to dismiss instead of ESC (was looping forever)\n- Fix: gather button detection threshold lowered for better matching\n- Fix: ESC now properly focuses the correct client window",
+    "version": "1.8.4",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.8.4/DLSBot.exe",
+    "changelog": "- Revert: gather button uses hardcoded coords again (stable)\n- Keep: ESC fallback for accidentally opened menus with 5-attempt cap",
     "mandatory": false
 }
