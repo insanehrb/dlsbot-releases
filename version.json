@@ -1,6 +1,6 @@
 {
-    "version": "1.8.9",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.8.9/DLSBot.exe",
-    "changelog": "- Fix: gather button now detected via template (clicks actual button position, not hardcoded coord)\n- Fallback to coord if template not found, with warning in log",
+    "version": "1.9.0",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.0/DLSBot.exe",
+    "changelog": "- Fix: gather button template was never actually searched (wrong attribute name)\n- Now tries gather_available.png then gather_btn.png, falls back to coord if neither found",
     "mandatory": false
 }
