@@ -1,6 +1,6 @@
 {
-    "version": "1.8.6",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.8.6/DLSBot.exe",
-    "changelog": "- Fix: Gathering settings redesigned — two-column layout, wider window\n- Right column: scrollable per-client resource assignment with mouse wheel support",
+    "version": "1.8.7",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.8.7/DLSBot.exe",
+    "changelog": "- Fix: squad count detection threshold lowered to 0.55 — bot now correctly reads how many squads are deployed instead of always reading 0",
     "mandatory": false
 }
