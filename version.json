@@ -1,6 +1,6 @@
 {
-    "version": "1.8.1",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.8.1/DLSBot.exe",
-    "changelog": "- Fix: PyAutoGUI failsafe disabled — gathering no longer crashes when mouse hits screen corner",
+    "version": "1.8.2",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.8.2/DLSBot.exe",
+    "changelog": "- Fix: gather button threshold lowered to 0.70 for better detection\n- Fix: ESC now reliably focuses the correct client window before pressing",
     "mandatory": false
 }
