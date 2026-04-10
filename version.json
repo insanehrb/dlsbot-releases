@@ -1,6 +1,6 @@
 {
-    "version": "1.9.9",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.9/DLSBot.exe",
-    "changelog": "- Fix: squad count ambiguity threshold tuned — 5/5 at 1.00 with second at 0.86 now correctly reads as 5 squads deployed",
+    "version": "2.0.0",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.0/DLSBot.exe",
+    "changelog": "- Fix: ESC was closing the gather popup immediately after node click\n- Gather button now waits up to 3s for popup to appear\n- ESC only fires after all 3 node attempts fail",
     "mandatory": false
 }
