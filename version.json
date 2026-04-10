@@ -1,6 +1,6 @@
 {
-    "version": "1.9.2",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.2/DLSBot.exe",
-    "changelog": "- Fix: removed hardcoded gather coord fallback — was blindly clicking into alliance/events on wrong screen\n- Gather button not visible = ESC and retry, not blind click",
+    "version": "1.9.3",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.3/DLSBot.exe",
+    "changelog": "- Fix: crash when screenshot returns None during gather button detection\n- Fix: gather button not visible = ESC and retry (no more blind coord clicks)",
     "mandatory": false
 }
