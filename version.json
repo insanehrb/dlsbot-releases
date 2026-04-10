@@ -1,6 +1,6 @@
 {
-    "version": "1.9.6",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.6/DLSBot.exe",
-    "changelog": "- Fix: squad count detection now requires a clear dominant match — ambiguous readings (all templates scoring similarly) return 0 instead of a false positive",
+    "version": "1.9.7",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.7/DLSBot.exe",
+    "changelog": "- Fix: squad count threshold raised to 0.80, dominance gap to 0.15 — prevents BabyMishi false positive where noise scored 0.76 and triggered early exit",
     "mandatory": false
 }
