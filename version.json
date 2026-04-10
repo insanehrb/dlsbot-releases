@@ -1,6 +1,6 @@
 {
-    "version": "1.9.5",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.5/DLSBot.exe",
-    "changelog": "- Fix: squad count false positive — if all squads appear deployed before any were sent this session, bot ignores the reading and sends anyway",
+    "version": "1.9.6",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.6/DLSBot.exe",
+    "changelog": "- Fix: squad count detection now requires a clear dominant match — ambiguous readings (all templates scoring similarly) return 0 instead of a false positive",
     "mandatory": false
 }
