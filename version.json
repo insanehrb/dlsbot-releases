@@ -1,6 +1,6 @@
 {
-    "version": "1.9.8",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.8/DLSBot.exe",
-    "changelog": "- Fix: window snapshot taken once per cycle (not per task) — prevents last clients being skipped when monitoring thread clears the window list mid-cycle",
+    "version": "1.9.9",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.9/DLSBot.exe",
+    "changelog": "- Fix: squad count ambiguity threshold tuned — 5/5 at 1.00 with second at 0.86 now correctly reads as 5 squads deployed",
     "mandatory": false
 }
