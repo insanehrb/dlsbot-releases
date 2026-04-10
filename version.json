@@ -1,6 +1,6 @@
 {
-    "version": "1.9.1",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.1/DLSBot.exe",
-    "changelog": "- Fix: gather button threshold lowered to 0.50 for better template detection\n- Add: logs confidence scores for gather button templates to help diagnose failures",
+    "version": "1.9.2",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.2/DLSBot.exe",
+    "changelog": "- Fix: removed hardcoded gather coord fallback — was blindly clicking into alliance/events on wrong screen\n- Gather button not visible = ESC and retry, not blind click",
     "mandatory": false
 }
