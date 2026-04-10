@@ -1,6 +1,6 @@
 {
-    "version": "1.9.0",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.0/DLSBot.exe",
-    "changelog": "- Fix: gather button template was never actually searched (wrong attribute name)\n- Now tries gather_available.png then gather_btn.png, falls back to coord if neither found",
+    "version": "1.9.1",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.1/DLSBot.exe",
+    "changelog": "- Fix: gather button threshold lowered to 0.50 for better template detection\n- Add: logs confidence scores for gather button templates to help diagnose failures",
     "mandatory": false
 }
