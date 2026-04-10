@@ -1,6 +1,6 @@
 {
-    "version": "1.9.7",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.7/DLSBot.exe",
-    "changelog": "- Fix: squad count threshold raised to 0.80, dominance gap to 0.15 — prevents BabyMishi false positive where noise scored 0.76 and triggered early exit",
+    "version": "1.9.8",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v1.9.8/DLSBot.exe",
+    "changelog": "- Fix: window snapshot taken once per cycle (not per task) — prevents last clients being skipped when monitoring thread clears the window list mid-cycle",
     "mandatory": false
 }
