@@ -1,6 +1,6 @@
 {
-    "version": "2.0.0",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.0/DLSBot.exe",
-    "changelog": "- Fix: ESC was closing the gather popup immediately after node click\n- Gather button now waits up to 3s for popup to appear\n- ESC only fires after all 3 node attempts fail",
+    "version": "2.0.1",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.1/DLSBot.exe",
+    "changelog": "- Revert: gather button back to hardcoded coords (stable)\n- Keep: per-client resource assignment, snapshot race fix, instant stop",
     "mandatory": false
 }
