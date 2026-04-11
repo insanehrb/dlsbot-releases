@@ -1,6 +1,6 @@
 {
-    "version": "2.0.1",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.1/DLSBot.exe",
-    "changelog": "- Revert: gather button back to hardcoded coords (stable)\n- Keep: per-client resource assignment, snapshot race fix, instant stop",
+    "version": "2.0.2",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.2/DLSBot.exe",
+    "changelog": "- Revert squad count to original simple threshold logic (no dominance gap check)\n- Keep: per-client resource assignment, snapshot race fix, instant stop, hardcoded gather coords",
     "mandatory": false
 }
