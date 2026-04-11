@@ -1,6 +1,6 @@
 {
-    "version": "2.0.2",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.2/DLSBot.exe",
-    "changelog": "- Revert squad count to original simple threshold logic (no dominance gap check)\n- Keep: per-client resource assignment, snapshot race fix, instant stop, hardcoded gather coords",
+    "version": "2.0.3",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.3/DLSBot.exe",
+    "changelog": "- Fix: back/return arrow and alliance menu now closed with ESC during gathering\n- Keep: per-client resource assignment, simple squad count logic, hardcoded gather coords",
     "mandatory": false
 }
