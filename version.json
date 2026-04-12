@@ -1,6 +1,6 @@
 {
-    "version": "2.0.3",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.3/DLSBot.exe",
-    "changelog": "- Fix: back/return arrow and alliance menu now closed with ESC during gathering\n- Keep: per-client resource assignment, simple squad count logic, hardcoded gather coords",
+    "version": "2.0.4",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.4/DLSBot.exe",
+    "changelog": "- Fix: wrong menu after gather click now triggers immediate ESC and retry\n- Keep: per-client resource, simple squad count, hardcoded gather coords",
     "mandatory": false
 }
