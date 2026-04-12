@@ -1,6 +1,6 @@
 {
-    "version": "2.0.6",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.6/DLSBot.exe",
-    "changelog": "- Fix: wrong-screen detection threshold lowered to 0.72 (catches back/return arrow on event screens)\n- Fix: ESC for all wrong screens (back arrow, return arrow, menus, popups)\n- Fix: detection runs after gather click AND at top of main loop",
+    "version": "2.0.7",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.7/DLSBot.exe",
+    "changelog": "- Fix: bring_to_front before squad count check\n- Fix: squad count returns 0 if window not foreground (prevents false 5/5 reads)",
     "mandatory": false
 }
