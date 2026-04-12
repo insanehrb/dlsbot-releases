@@ -1,6 +1,6 @@
 {
-    "version": "2.0.4",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.4/DLSBot.exe",
-    "changelog": "- Fix: wrong menu after gather click now triggers immediate ESC and retry\n- Keep: per-client resource, simple squad count, hardcoded gather coords",
+    "version": "2.0.6",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.6/DLSBot.exe",
+    "changelog": "- Fix: wrong-screen detection threshold lowered to 0.72 (catches back/return arrow on event screens)\n- Fix: ESC for all wrong screens (back arrow, return arrow, menus, popups)\n- Fix: detection runs after gather click AND at top of main loop",
     "mandatory": false
 }
