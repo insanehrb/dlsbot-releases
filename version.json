@@ -1,6 +1,6 @@
 {
-    "version": "2.0.7",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.7/DLSBot.exe",
-    "changelog": "- Fix: bring_to_front before squad count check\n- Fix: squad count returns 0 if window not foreground (prevents false 5/5 reads)",
+    "version": "2.0.9",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.0.9/DLSBot.exe",
+    "changelog": "- Fix: world map sanity check before squad count prevents false 5/5 reads\n- Add: gathering/return.png clicked when detected\n- Fix: all wrong-screen overlays trigger ESC recovery",
     "mandatory": false
 }
