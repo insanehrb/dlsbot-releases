@@ -1,6 +1,6 @@
 {
-    "version": "2.1.2",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.1.2/DLSBot.exe",
-    "changelog": "- Revert: task-first scheduling restored\n- Revert: gathering recovery = ESC for back/return arrow and alliance menu only\n- Keep: per-client resource assignment",
+    "version": "2.1.4",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.1.4/DLSBot.exe",
+    "changelog": "- Fix: ESC pressed in loop until world map visible (handles nested menus)\n- Fix: same recovery in main loop and after gather click",
     "mandatory": false
 }
