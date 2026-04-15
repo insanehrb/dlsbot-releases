@@ -1,6 +1,6 @@
 {
-    "version": "2.1.5",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.1.5/DLSBot.exe",
-    "changelog": "- Fix: world map gate check before squad send (no more blind clicks on wrong screen)\n- Fix: ESC loop on every failure to clear open menus",
+    "version": "2.1.6",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.1.6/DLSBot.exe",
+    "changelog": "- Fix: snapshot race — retries up to 5x to get full client list\n- Fix: world map check before squad count prevents false 5/5 reads",
     "mandatory": false
 }
