@@ -1,6 +1,6 @@
 {
-    "version": "2.1.4",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.1.4/DLSBot.exe",
-    "changelog": "- Fix: ESC pressed in loop until world map visible (handles nested menus)\n- Fix: same recovery in main loop and after gather click",
+    "version": "2.1.5",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.1.5/DLSBot.exe",
+    "changelog": "- Fix: world map gate check before squad send (no more blind clicks on wrong screen)\n- Fix: ESC loop on every failure to clear open menus",
     "mandatory": false
 }
