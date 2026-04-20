@@ -1,6 +1,6 @@
 {
-    "version": "2.1.6",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.1.6/DLSBot.exe",
-    "changelog": "- Fix: snapshot race — retries up to 5x to get full client list\n- Fix: world map check before squad count prevents false 5/5 reads",
+    "version": "2.2.12",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.2.12/DLSBot.exe",
+    "changelog": "- Fix: false 5/5 squad count when 0 squads out — OCR now primary, strict template fallback\n- Fix: false 'recovery failed' when actually on world map — looser threshold + no-popup shortcut\n- Fix: memory leak over long runs — mss handle cleanup on task replacement (WinError 1455 root cause)\n- Fix: AttachThreadInput leak in bring_to_front (try/finally)\n- Fix: GDI handle leaks in screenshot paths (try/finally)\n- Fix: Tkinter crash on Stop Automation (thread-safe log + join before clear)\n- Fix: unbounded Tk log widget — auto-trim at 2000 lines\n- Fix: detect all 12 clients (PID scan + title scan dedup)\n- Fix: restore template-click recovery (return_arrow / close_popup / close_challenge)",
     "mandatory": false
 }
