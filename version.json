@@ -1,6 +1,6 @@
 {
-    "version": "2.2.12",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.2.12/DLSBot.exe",
-    "changelog": "- Fix: false 5/5 squad count when 0 squads out — OCR now primary, strict template fallback\n- Fix: false 'recovery failed' when actually on world map — looser threshold + no-popup shortcut\n- Fix: memory leak over long runs — mss handle cleanup on task replacement (WinError 1455 root cause)\n- Fix: AttachThreadInput leak in bring_to_front (try/finally)\n- Fix: GDI handle leaks in screenshot paths (try/finally)\n- Fix: Tkinter crash on Stop Automation (thread-safe log + join before clear)\n- Fix: unbounded Tk log widget — auto-trim at 2000 lines\n- Fix: detect all 12 clients (PID scan + title scan dedup)\n- Fix: restore template-click recovery (return_arrow / close_popup / close_challenge)",
+    "version": "2.2.14",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.2.14/DLSBot.exe",
+    "changelog": "- NEW: Hourly [HEALTH] log line — memory, GDI/USER handles, threads, Tk queues, task/mss counts. Makes slow leaks visible from a single run.\n- NEW: Watchdog auto-restarts DLSBot.exe if no squads sent in 60 min — no more 15-hour dead runs\n- Fix: batched log UI updates — one periodic drain instead of one after_idle per line (prevents Tk mainloop starvation over long runs)\n- Fix: reject all-black screenshots — prevents recovery loops from spinning on invalid captures\n- Fix: re-foreground window on 3 blank screenshots in a row",
     "mandatory": false
 }
