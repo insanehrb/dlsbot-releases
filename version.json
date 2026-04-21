@@ -1,6 +1,6 @@
 {
-    "version": "2.2.14",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.2.14/DLSBot.exe",
-    "changelog": "- NEW: Hourly [HEALTH] log line — memory, GDI/USER handles, threads, Tk queues, task/mss counts. Makes slow leaks visible from a single run.\n- NEW: Watchdog auto-restarts DLSBot.exe if no squads sent in 60 min — no more 15-hour dead runs\n- Fix: batched log UI updates — one periodic drain instead of one after_idle per line (prevents Tk mainloop starvation over long runs)\n- Fix: reject all-black screenshots — prevents recovery loops from spinning on invalid captures\n- Fix: re-foreground window on 3 blank screenshots in a row",
+    "version": "2.2.15",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.2.15/DLSBot.exe",
+    "changelog": "- NEW: Auto-resume after watchdog restart — drops a resume marker before restarting and auto-clicks Start Automation 15s after launch, so unattended long runs don't stall forever if the watchdog fires\n- NEW: dlsbot_activity.log rotates on startup (previous run archived to dlsbot_activity.log.old) — no more multi-day 80MB log files",
     "mandatory": false
 }
