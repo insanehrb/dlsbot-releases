@@ -1,6 +1,6 @@
 {
-    "version": "2.2.15",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.2.15/DLSBot.exe",
-    "changelog": "- NEW: Auto-resume after watchdog restart — drops a resume marker before restarting and auto-clicks Start Automation 15s after launch, so unattended long runs don't stall forever if the watchdog fires\n- NEW: dlsbot_activity.log rotates on startup (previous run archived to dlsbot_activity.log.old) — no more multi-day 80MB log files",
+    "version": "2.2.16",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.2.16/DLSBot.exe",
+    "changelog": "- Fix: wipe stale _MEI* folders on startup — prevents 'Tcl data directory not found' crashes after watchdog restart or abnormal exit\n- Previously included (v2.2.15): auto-resume after watchdog restart + dlsbot_activity.log rotation",
     "mandatory": false
 }
