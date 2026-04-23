@@ -1,6 +1,6 @@
 {
-    "version": "2.2.16",
-    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.2.16/DLSBot.exe",
-    "changelog": "- Fix: wipe stale _MEI* folders on startup — prevents 'Tcl data directory not found' crashes after watchdog restart or abnormal exit\n- Previously included (v2.2.15): auto-resume after watchdog restart + dlsbot_activity.log rotation",
+    "version": "2.2.17",
+    "download_url": "https://github.com/insanehrb/dlsbot-releases/releases/download/v2.2.17/DLSBot.exe",
+    "changelog": "- Fix: PyInstaller now extracts to %TEMP% instead of the exe folder — no more _MEI* folders piling up in dist and no more 'Failed to remove temporary directory' popup\n- Fix: stale _MEI cleanup now skips if another DLSBot.exe is running, so watchdog restarts don't race with the old instance's shutdown",
     "mandatory": false
 }
